@@ -1,0 +1,448 @@
+Thu, 17 Jul 2025 10:58:16-root-log.py-[line:221]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 10:58:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 10:58:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 10:58:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 10:58:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 10:58:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 10:58:18-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表失败：'list'
+Thu, 17 Jul 2025 10:58:18-root-log.py-[line:221]-INFO-[日志信息]: 发生异常：'list'
+Thu, 17 Jul 2025 10:58:20-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Thu, 17 Jul 2025 11:01:36-root-log.py-[line:221]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 11:01:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 11:01:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 11:01:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 11:01:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 11:01:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 11:02:04-root-log.py-[line:223]-DEBUG-[日志信息]: {'httpStatus': 404, 'errorCode': 404001, 'message': '无法定位请求资源，请检查API', 'data': None, 'source': 'admin'}
+Thu, 17 Jul 2025 11:02:04-root-log.py-[line:227]-ERROR-[日志信息]: 获取政策列表失败：'list'
+Thu, 17 Jul 2025 11:02:04-root-log.py-[line:221]-INFO-[日志信息]: 发生异常：'list'
+Thu, 17 Jul 2025 11:02:06-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Thu, 17 Jul 2025 11:15:29-root-log.py-[line:221]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 11:15:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 11:15:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 11:15:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 11:15:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 11:15:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 11:15:31-root-log.py-[line:227]-ERROR-[日志信息]: 获取政策列表失败：'list'
+Thu, 17 Jul 2025 11:15:31-root-log.py-[line:221]-INFO-[日志信息]: 发生异常：'list'
+Thu, 17 Jul 2025 11:15:34-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Thu, 17 Jul 2025 11:18:04-root-log.py-[line:221]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 11:18:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 11:18:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 11:18:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 11:18:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 11:18:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 11:20:15-root-log.py-[line:221]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 11:20:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 11:20:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 11:20:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 11:20:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 11:20:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 11:22:54-root-log.py-[line:221]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 11:22:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 11:22:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 11:22:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 11:22:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 11:22:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 11:34:54-root-log.py-[line:221]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 11:34:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 11:34:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 11:34:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 11:34:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 11:34:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 11:34:56-root-log.py-[line:221]-INFO-[日志信息]: {'total': 1, 'list': [{'id': 116, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-16 17:17:59', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250716/abdf1934-cceb-4054-85ff-4f81f544399b.txt', 'status': 'PUSH', 'readCount': 5, 'downloadCount': 6, 'createdTime': '2025-07-16 17:18:05', 'modifiedTime': '2025-07-17 10:57:39'}]}
+Thu, 17 Jul 2025 11:34:56-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[{'id': 116, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-16 17:17:59', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250716/abdf1934-cceb-4054-85ff-4f81f544399b.txt', 'status': 'PUSH', 'readCount': 5, 'downloadCount': 6, 'createdTime': '2025-07-16 17:18:05', 'modifiedTime': '2025-07-17 10:57:39'}]
+Thu, 17 Jul 2025 11:34:56-root-log.py-[line:223]-DEBUG-[日志信息]: 116
+Thu, 17 Jul 2025 11:34:59-root-log.py-[line:223]-DEBUG-[日志信息]: 删除116成功
+Thu, 17 Jul 2025 11:34:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Thu, 17 Jul 2025 11:34:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Thu, 17 Jul 2025 11:35:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Thu, 17 Jul 2025 11:35:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：testname1
+Thu, 17 Jul 2025 11:35:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Thu, 17 Jul 2025 11:35:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：居住政策
+Thu, 17 Jul 2025 11:35:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Thu, 17 Jul 2025 11:35:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Thu, 17 Jul 2025 11:35:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Thu, 17 Jul 2025 11:35:08-root-log.py-[line:221]-INFO-[日志信息]: 上传文件成功
+Thu, 17 Jul 2025 11:35:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Thu, 17 Jul 2025 11:35:12-root-log.py-[line:221]-INFO-[日志信息]: 弹窗显示：保存成功
+Thu, 17 Jul 2025 11:35:12-root-log.py-[line:221]-INFO-[日志信息]: 保存成功，断言通过
+Thu, 17 Jul 2025 11:35:16-root-log.py-[line:221]-INFO-[日志信息]: {'total': 1, 'list': [{'id': 117, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-17 11:35:04', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250717/27489906-e8c9-4bea-8d6b-dbb8982429af.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-17 11:35:13', 'modifiedTime': '2025-07-17 11:35:13'}]}
+Thu, 17 Jul 2025 11:35:16-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[{'id': 117, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-17 11:35:04', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250717/27489906-e8c9-4bea-8d6b-dbb8982429af.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-17 11:35:13', 'modifiedTime': '2025-07-17 11:35:13'}]
+Thu, 17 Jul 2025 11:35:16-root-log.py-[line:223]-DEBUG-[日志信息]: testname1
+Thu, 17 Jul 2025 11:35:16-root-log.py-[line:221]-INFO-[日志信息]: 查询到新增政策，断言通过
+Thu, 17 Jul 2025 11:35:18-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Thu, 17 Jul 2025 11:36:42-root-log.py-[line:221]-INFO-[日志信息]: {'total': 1, 'list': [{'id': 117, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-17 11:35:04', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250717/27489906-e8c9-4bea-8d6b-dbb8982429af.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-17 11:35:13', 'modifiedTime': '2025-07-17 11:35:13'}]}
+Thu, 17 Jul 2025 11:36:42-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[{'id': 117, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-17 11:35:04', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250717/27489906-e8c9-4bea-8d6b-dbb8982429af.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-17 11:35:13', 'modifiedTime': '2025-07-17 11:35:13'}]
+Thu, 17 Jul 2025 11:36:42-root-log.py-[line:223]-DEBUG-[日志信息]: 117
+Thu, 17 Jul 2025 11:36:45-root-log.py-[line:223]-DEBUG-[日志信息]: 删除117成功
+Thu, 17 Jul 2025 11:36:48-root-log.py-[line:221]-INFO-[日志信息]: {'total': 0, 'list': []}
+Thu, 17 Jul 2025 11:36:48-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 11:36:48-root-log.py-[line:221]-INFO-[日志信息]: 没有政策可删除
+Thu, 17 Jul 2025 11:37:12-root-log.py-[line:221]-INFO-[日志信息]: {'total': 0, 'list': []}
+Thu, 17 Jul 2025 11:37:12-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 11:38:18-root-log.py-[line:221]-INFO-[日志信息]: {'total': 0, 'list': []}
+Thu, 17 Jul 2025 11:38:18-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 11:38:33-root-log.py-[line:221]-INFO-[日志信息]: {'total': 0, 'list': []}
+Thu, 17 Jul 2025 11:38:33-root-log.py-[line:223]-DEBUG-[日志信息]: 2
+Thu, 17 Jul 2025 11:38:33-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 11:38:46-root-log.py-[line:221]-INFO-[日志信息]: {'total': 0, 'list': []}
+Thu, 17 Jul 2025 11:38:46-root-log.py-[line:223]-DEBUG-[日志信息]: 0
+Thu, 17 Jul 2025 11:38:46-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 11:39:11-root-log.py-[line:221]-INFO-[日志信息]: {'total': 0, 'list': []}
+Thu, 17 Jul 2025 11:39:11-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 11:39:23-root-log.py-[line:221]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 17:58:47-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:58:47-root-log.py-[line:122]-DEBUG-[日志信息]: 进入网页
+Thu, 17 Jul 2025 17:58:47-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:58:47-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.55second
+Thu, 17 Jul 2025 17:58:47-root-log.py-[line:120]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Thu, 17 Jul 2025 17:58:48-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 17:58:48-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Thu, 17 Jul 2025 17:58:59-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:00-root-log.py-[line:120]-INFO-[日志信息]: 用户基础数据
+Thu, 17 Jul 2025 17:59:01-root-log.py-[line:120]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: 点击：退出登录
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: 登录成功，断言通过
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:15.3second
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:59:02-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:03-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:59:03-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 17:59:04-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Thu, 17 Jul 2025 17:59:04-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 17:59:04-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: 请输入账号
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: 请输入账号，断言通过
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.42second
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:59:05-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 17:59:06-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 17:59:06-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 17:59:07-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 17:59:07-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:17-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='call' outcome='failed'>
+Thu, 17 Jul 2025 17:59:17-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:12.36second
+Thu, 17 Jul 2025 17:59:17-root-log.py-[line:120]-INFO-[日志信息]: error.screenshot.
+Thu, 17 Jul 2025 17:59:19-root-log.py-[line:120]-INFO-[日志信息]: 网页截图
+Thu, 17 Jul 2025 17:59:19-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 17:59:19-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:19-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:59:19-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:19-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:59:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 17:59:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Thu, 17 Jul 2025 17:59:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 17:59:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: 请输入正确的手机号
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.72second
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.02second
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_05]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:22-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:59:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 17:59:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 17:59:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 17:59:24-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Thu, 17 Jul 2025 17:59:24-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:25-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：
+Thu, 17 Jul 2025 17:59:25-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_05]' when='call' outcome='failed'>
+Thu, 17 Jul 2025 17:59:25-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.86second
+Thu, 17 Jul 2025 17:59:25-root-log.py-[line:120]-INFO-[日志信息]: error.screenshot.
+Thu, 17 Jul 2025 17:59:26-root-log.py-[line:120]-INFO-[日志信息]: 网页截图
+Thu, 17 Jul 2025 17:59:26-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_05]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 17:59:26-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:26-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_06]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:59:26-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:27-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:59:27-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 17:59:28-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 17:59:28-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 17:59:28-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_06]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.58second
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_06]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_07]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:59:29-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 17:59:30-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Thu, 17 Jul 2025 17:59:30-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 17:59:31-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 17:59:31-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:33-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：token格式错误
+Thu, 17 Jul 2025 17:59:33-root-log.py-[line:120]-INFO-[日志信息]: token格式错误，断言通过
+Thu, 17 Jul 2025 17:59:33-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_07]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 17:59:33-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:4.46second
+Thu, 17 Jul 2025 17:59:35-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_07]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 17:59:35-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.24second
+Thu, 17 Jul 2025 17:59:38-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 17:59:39-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 17:59:39-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 17:59:39-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 17:59:40-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 17:59:40-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 17:59:40-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_policy' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 17:59:40-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:4.77second
+Thu, 17 Jul 2025 17:59:42-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[]
+Thu, 17 Jul 2025 17:59:42-root-log.py-[line:120]-INFO-[日志信息]: 没有政策可删除
+Thu, 17 Jul 2025 17:59:43-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Thu, 17 Jul 2025 17:59:43-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Thu, 17 Jul 2025 17:59:44-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布政策立即发布
+Thu, 17 Jul 2025 17:59:44-root-log.py-[line:120]-INFO-[日志信息]: 点击：政策名称,并输入值：testname1
+Thu, 17 Jul 2025 17:59:45-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择你的类型
+Thu, 17 Jul 2025 17:59:47-root-log.py-[line:120]-INFO-[日志信息]: 点击：居住政策
+Thu, 17 Jul 2025 17:59:48-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择时间
+Thu, 17 Jul 2025 17:59:48-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Thu, 17 Jul 2025 17:59:49-root-log.py-[line:120]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Thu, 17 Jul 2025 17:59:52-root-log.py-[line:120]-INFO-[日志信息]: 上传文件成功
+Thu, 17 Jul 2025 17:59:53-root-log.py-[line:120]-INFO-[日志信息]: 点击：保存
+Thu, 17 Jul 2025 17:59:58-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：保存成功
+Thu, 17 Jul 2025 17:59:58-root-log.py-[line:120]-INFO-[日志信息]: 保存成功，断言通过
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 118, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-17 17:59:48', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250717/a15bb396-91c5-4047-85ce-e1f97d1b627d.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-17 17:59:59', 'modifiedTime': '2025-07-17 17:59:59'}]
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:122]-DEBUG-[日志信息]: testname1
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: 查询到新增政策，断言通过
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_policy' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:22.93second
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_policy' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_project' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:00:03-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Thu, 17 Jul 2025 18:00:05-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_project' when='call' outcome='failed'>
+Thu, 17 Jul 2025 18:00:05-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:1.39second
+Thu, 17 Jul 2025 18:00:05-root-log.py-[line:120]-INFO-[日志信息]: error.screenshot.
+Thu, 17 Jul 2025 18:00:06-root-log.py-[line:120]-INFO-[日志信息]: 网页截图
+Thu, 17 Jul 2025 18:00:08-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Thu, 17 Jul 2025 18:00:08-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_project' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:00:08-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.28second
+Thu, 17 Jul 2025 18:00:11-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:00:11-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:00:12-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 18:00:12-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:5.05second
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:122]-DEBUG-[日志信息]: [[], [], [], [], []]
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='call' outcome='failed'>
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.05second
+Thu, 17 Jul 2025 18:00:13-root-log.py-[line:120]-INFO-[日志信息]: error.screenshot.
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: 网页截图
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:122]-DEBUG-[日志信息]: [[], [], [], [], []]
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='call' outcome='failed'>
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.05second
+Thu, 17 Jul 2025 18:00:15-root-log.py-[line:120]-INFO-[日志信息]: error.screenshot.
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: 网页截图
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: sql执行结果:[]
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:122]-DEBUG-[日志信息]: [[], [], [], [], []]
+Thu, 17 Jul 2025 18:00:16-root-log.py-[line:120]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 17 Jul 2025 18:00:17-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse18/
+Thu, 17 Jul 2025 18:00:37-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='call' outcome='failed'>
+Thu, 17 Jul 2025 18:00:37-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:21.0second
+Thu, 17 Jul 2025 18:00:37-root-log.py-[line:120]-INFO-[日志信息]: error.screenshot.
+Thu, 17 Jul 2025 18:00:38-root-log.py-[line:120]-INFO-[日志信息]: 网页截图
+Thu, 17 Jul 2025 18:00:41-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Thu, 17 Jul 2025 18:00:41-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:00:41-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.18second
+Thu, 17 Jul 2025 18:08:40-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:08:40-root-log.py-[line:122]-DEBUG-[日志信息]: 进入网页
+Thu, 17 Jul 2025 18:08:40-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:08:40-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.86second
+Thu, 17 Jul 2025 18:08:40-root-log.py-[line:120]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Thu, 17 Jul 2025 18:08:40-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 18:08:41-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Thu, 17 Jul 2025 18:08:51-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:08:52-root-log.py-[line:120]-INFO-[日志信息]: 用户基础数据
+Thu, 17 Jul 2025 18:08:52-root-log.py-[line:120]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Thu, 17 Jul 2025 18:08:52-root-log.py-[line:120]-INFO-[日志信息]: 点击：退出登录
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: 登录成功，断言通过
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:13.13second
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:08:53-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:08:54-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:08:54-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:08:55-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Thu, 17 Jul 2025 18:08:55-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:08:55-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: 请输入账号
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: 请输入账号，断言通过
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.97second
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:08:56-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:08:57-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 18:08:57-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:08:58-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 18:08:58-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:09:00-root-log.py-[line:120]-INFO-[日志信息]: 用户基础数据
+Thu, 17 Jul 2025 18:09:00-root-log.py-[line:120]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: 点击：退出登录
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: 登录成功，断言通过
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:5.38second
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:09:01-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:09:02-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:09:02-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: 请输入正确的手机号
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.33second
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:09:03-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 18:09:04-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_05]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:09:04-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:09:04-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:09:04-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:09:05-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 18:09:05-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：验证码错误
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_05]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.71second
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_05]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_06]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:09:06-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:09:07-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:09:07-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:09:07-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 18:09:08-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_06]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.75second
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_06]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.01second
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_07]' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:09:09-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:09:10-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:09:10-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Thu, 17 Jul 2025 18:09:11-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:09:11-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 18:09:11-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:09:12-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：
+Thu, 17 Jul 2025 18:09:12-root-log.py-[line:120]-INFO-[日志信息]: token格式错误，断言通过
+Thu, 17 Jul 2025 18:09:12-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_07]' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:09:12-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.62second
+Thu, 17 Jul 2025 18:09:14-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login.py::TestLogin::test_verifycodelogin[test_datacenters_07]' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:09:14-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.28second
+Thu, 17 Jul 2025 18:09:17-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Thu, 17 Jul 2025 18:09:17-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Thu, 17 Jul 2025 18:09:17-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Thu, 17 Jul 2025 18:09:18-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Thu, 17 Jul 2025 18:09:18-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Thu, 17 Jul 2025 18:09:19-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Thu, 17 Jul 2025 18:09:19-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_policy' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:09:19-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:4.58second
+Thu, 17 Jul 2025 18:09:19-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 118, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-17 17:59:48', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250717/a15bb396-91c5-4047-85ce-e1f97d1b627d.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-17 17:59:59', 'modifiedTime': '2025-07-17 17:59:59'}]
+Thu, 17 Jul 2025 18:09:19-root-log.py-[line:122]-DEBUG-[日志信息]: 118
+Thu, 17 Jul 2025 18:09:19-root-log.py-[line:122]-DEBUG-[日志信息]: 删除118成功
+Thu, 17 Jul 2025 18:09:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Thu, 17 Jul 2025 18:09:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Thu, 17 Jul 2025 18:09:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布政策立即发布
+Thu, 17 Jul 2025 18:09:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：政策名称,并输入值：testname1
+Thu, 17 Jul 2025 18:09:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择你的类型
+Thu, 17 Jul 2025 18:09:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：居住政策
+Thu, 17 Jul 2025 18:09:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择时间
+Thu, 17 Jul 2025 18:09:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Thu, 17 Jul 2025 18:09:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Thu, 17 Jul 2025 18:09:26-root-log.py-[line:120]-INFO-[日志信息]: 上传文件成功
+Thu, 17 Jul 2025 18:09:26-root-log.py-[line:120]-INFO-[日志信息]: 点击：保存
+Thu, 17 Jul 2025 18:09:27-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：保存成功
+Thu, 17 Jul 2025 18:09:27-root-log.py-[line:120]-INFO-[日志信息]: 保存成功，断言通过
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 119, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-17 18:09:22', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250717/6592d988-c2d3-4da9-9013-c4a704910cce.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-17 18:09:31', 'modifiedTime': '2025-07-17 18:09:31'}]
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:122]-DEBUG-[日志信息]: testname1
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: 查询到新增政策，断言通过
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_policy' when='call' outcome='passed'>
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:10.33second
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_policy' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_project' when='setup' outcome='passed'>
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:0.0second
+Thu, 17 Jul 2025 18:09:29-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Thu, 17 Jul 2025 18:09:31-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_project' when='call' outcome='failed'>
+Thu, 17 Jul 2025 18:09:31-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:1.63second
+Thu, 17 Jul 2025 18:09:31-root-log.py-[line:120]-INFO-[日志信息]: error.screenshot.
+Thu, 17 Jul 2025 18:09:32-root-log.py-[line:120]-INFO-[日志信息]: 网页截图
+Thu, 17 Jul 2025 18:09:34-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Thu, 17 Jul 2025 18:09:34-root-log.py-[line:120]-INFO-[日志信息]: test report: <TestReport 'testcase/test_publishCenter_mypush.py::Testpublish::test_mypublish_project' when='teardown' outcome='passed'>
+Thu, 17 Jul 2025 18:09:34-root-log.py-[line:120]-INFO-[日志信息]: execution time-consuming:2.26second

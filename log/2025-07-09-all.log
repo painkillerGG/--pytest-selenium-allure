@@ -1,0 +1,27 @@
+Wed, 09 Jul 2025 18:05:04-root-log.py-[line:227]-ERROR-[日志信息]: Message: invalid argument
+  (Session info: chrome=138.0.7204.97)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff694f66f65+76917]
+	GetHandleVerifier [0x0x7ff694f66fc0+77008]
+	(No symbol) [0x0x7ff694d19c1c]
+	(No symbol) [0x0x7ff694d06c88]
+	(No symbol) [0x0x7ff694d0503c]
+	(No symbol) [0x0x7ff694d0570c]
+	(No symbol) [0x0x7ff694d1dd9a]
+	(No symbol) [0x0x7ff694dc143e]
+	(No symbol) [0x0x7ff694d9846a]
+	(No symbol) [0x0x7ff694dc065c]
+	(No symbol) [0x0x7ff694d98243]
+	(No symbol) [0x0x7ff694d61431]
+	(No symbol) [0x0x7ff694d621c3]
+	GetHandleVerifier [0x0x7ff69523d29d+3051437]
+	GetHandleVerifier [0x0x7ff6952378f3+3028483]
+	GetHandleVerifier [0x0x7ff69525588d+3151261]
+	GetHandleVerifier [0x0x7ff694f8182e+185662]
+	GetHandleVerifier [0x0x7ff694f896ef+218111]
+	GetHandleVerifier [0x0x7ff694f6fae4+112628]
+	GetHandleVerifier [0x0x7ff694f6fc99+113065]
+	GetHandleVerifier [0x0x7ff694f56c68+10616]
+	BaseThreadInitThunk [0x0x7ffb384ee8d7+23]
+	RtlUserThreadStart [0x0x7ffb3a75c34c+44]
+

@@ -1,0 +1,521 @@
+Tue, 15 Jul 2025 11:39:58-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 11:40:06-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 11:40:16-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 11:40:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 11:40:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 11:40:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 11:40:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 11:40:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 11:40:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 11:40:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 11:40:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 11:40:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 11:40:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 11:40:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Tue, 15 Jul 2025 11:41:36-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 11:41:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 11:41:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 11:41:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 11:41:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 11:41:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 11:41:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 11:41:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 11:41:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 11:41:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 11:41:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 11:41:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Tue, 15 Jul 2025 11:41:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 11:45:16-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 11:45:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 11:45:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 11:45:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 11:45:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 11:45:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 11:45:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 11:45:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 11:45:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 11:45:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 11:45:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 11:45:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Tue, 15 Jul 2025 11:45:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 14:11:24-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 14:11:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 14:11:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 14:11:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 14:11:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 14:11:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 14:11:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 14:11:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 14:11:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 14:11:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 14:11:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 14:11:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Tue, 15 Jul 2025 14:11:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 14:11:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 14:11:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 14:29:54-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 14:29:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 14:29:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 14:29:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 14:29:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 14:29:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 14:29:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 14:29:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 14:29:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 14:29:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 14:29:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 14:29:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Tue, 15 Jul 2025 14:29:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 14:29:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 14:30:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 14:31:44-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 14:31:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 14:31:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 14:31:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 14:31:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 14:31:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 14:31:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 14:31:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 14:31:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 14:31:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 14:31:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 14:31:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Tue, 15 Jul 2025 14:31:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 14:31:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 14:31:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 14:37:26-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 14:37:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 14:37:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 14:37:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 14:37:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 14:37:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 14:37:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 14:37:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 14:37:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 14:37:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 14:37:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 14:37:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 14:37:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 14:37:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 14:37:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 14:38:56-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 14:38:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 14:38:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 14:38:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 14:38:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 14:38:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 14:38:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 14:38:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 14:39:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 14:39:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 14:39:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 14:39:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 14:39:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 14:39:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 14:39:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:02:09-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:02:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:02:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:02:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:02:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:02:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:02:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:02:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:02:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:02:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:02:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:02:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:02:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:02:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:02:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:02:26-root-log.py-[line:227]-ERROR-[日志信息]: <UNK>Message: no such element: Unable to locate element: {"method":"xpath","selector":"input[@class='el-upload__input']"}
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68d6e6f65+76917]
+	GetHandleVerifier [0x0x7ff68d6e6fc0+77008]
+	(No symbol) [0x0x7ff68d499dea]
+	(No symbol) [0x0x7ff68d4f0256]
+	(No symbol) [0x0x7ff68d4f050c]
+	(No symbol) [0x0x7ff68d543887]
+	(No symbol) [0x0x7ff68d5184af]
+	(No symbol) [0x0x7ff68d54065c]
+	(No symbol) [0x0x7ff68d518243]
+	(No symbol) [0x0x7ff68d4e1431]
+	(No symbol) [0x0x7ff68d4e21c3]
+	GetHandleVerifier [0x0x7ff68d9bd29d+3051437]
+	GetHandleVerifier [0x0x7ff68d9b78f3+3028483]
+	GetHandleVerifier [0x0x7ff68d9d588d+3151261]
+	GetHandleVerifier [0x0x7ff68d70182e+185662]
+	GetHandleVerifier [0x0x7ff68d7096ef+218111]
+	GetHandleVerifier [0x0x7ff68d6efae4+112628]
+	GetHandleVerifier [0x0x7ff68d6efc99+113065]
+	GetHandleVerifier [0x0x7ff68d6d6c68+10616]
+	BaseThreadInitThunk [0x0x7fff4182e8d7+23]
+	RtlUserThreadStart [0x0x7fff431fc34c+44]
+
+Tue, 15 Jul 2025 15:07:25-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:07:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:07:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:07:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:07:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:07:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:07:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:07:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:07:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:07:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:07:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:07:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:07:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:07:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:07:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:07:42-root-log.py-[line:227]-ERROR-[日志信息]: <UNK>Message: no such element: Unable to locate element: {"method":"xpath","selector":"input[@class="el-upload__input"]"}
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68d6e6f65+76917]
+	GetHandleVerifier [0x0x7ff68d6e6fc0+77008]
+	(No symbol) [0x0x7ff68d499dea]
+	(No symbol) [0x0x7ff68d4f0256]
+	(No symbol) [0x0x7ff68d4f050c]
+	(No symbol) [0x0x7ff68d543887]
+	(No symbol) [0x0x7ff68d5184af]
+	(No symbol) [0x0x7ff68d54065c]
+	(No symbol) [0x0x7ff68d518243]
+	(No symbol) [0x0x7ff68d4e1431]
+	(No symbol) [0x0x7ff68d4e21c3]
+	GetHandleVerifier [0x0x7ff68d9bd29d+3051437]
+	GetHandleVerifier [0x0x7ff68d9b78f3+3028483]
+	GetHandleVerifier [0x0x7ff68d9d588d+3151261]
+	GetHandleVerifier [0x0x7ff68d70182e+185662]
+	GetHandleVerifier [0x0x7ff68d7096ef+218111]
+	GetHandleVerifier [0x0x7ff68d6efae4+112628]
+	GetHandleVerifier [0x0x7ff68d6efc99+113065]
+	GetHandleVerifier [0x0x7ff68d6d6c68+10616]
+	BaseThreadInitThunk [0x0x7fff4182e8d7+23]
+	RtlUserThreadStart [0x0x7fff431fc34c+44]
+
+Tue, 15 Jul 2025 15:10:35-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:10:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:10:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:10:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:10:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:10:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:10:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:10:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:10:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:10:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:10:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:10:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:10:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:10:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:10:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:10:52-root-log.py-[line:227]-ERROR-[日志信息]: <UNK>Message: no such element: Unable to locate element: {"method":"xpath","selector":"input[@class="el-upload__input"]"}
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68d6e6f65+76917]
+	GetHandleVerifier [0x0x7ff68d6e6fc0+77008]
+	(No symbol) [0x0x7ff68d499dea]
+	(No symbol) [0x0x7ff68d4f0256]
+	(No symbol) [0x0x7ff68d4f050c]
+	(No symbol) [0x0x7ff68d543887]
+	(No symbol) [0x0x7ff68d5184af]
+	(No symbol) [0x0x7ff68d54065c]
+	(No symbol) [0x0x7ff68d518243]
+	(No symbol) [0x0x7ff68d4e1431]
+	(No symbol) [0x0x7ff68d4e21c3]
+	GetHandleVerifier [0x0x7ff68d9bd29d+3051437]
+	GetHandleVerifier [0x0x7ff68d9b78f3+3028483]
+	GetHandleVerifier [0x0x7ff68d9d588d+3151261]
+	GetHandleVerifier [0x0x7ff68d70182e+185662]
+	GetHandleVerifier [0x0x7ff68d7096ef+218111]
+	GetHandleVerifier [0x0x7ff68d6efae4+112628]
+	GetHandleVerifier [0x0x7ff68d6efc99+113065]
+	GetHandleVerifier [0x0x7ff68d6d6c68+10616]
+	BaseThreadInitThunk [0x0x7fff4182e8d7+23]
+	RtlUserThreadStart [0x0x7fff431fc34c+44]
+
+Tue, 15 Jul 2025 15:16:18-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:16:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:16:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:16:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:16:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:16:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:16:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:16:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:16:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:16:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:16:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:16:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:16:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:16:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:16:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:16:35-root-log.py-[line:227]-ERROR-[日志信息]: <UNK>Message: no such element: Unable to locate element: {"method":"xpath","selector":"input[@class="el-upload__input"]"}
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68d6e6f65+76917]
+	GetHandleVerifier [0x0x7ff68d6e6fc0+77008]
+	(No symbol) [0x0x7ff68d499dea]
+	(No symbol) [0x0x7ff68d4f0256]
+	(No symbol) [0x0x7ff68d4f050c]
+	(No symbol) [0x0x7ff68d543887]
+	(No symbol) [0x0x7ff68d5184af]
+	(No symbol) [0x0x7ff68d54065c]
+	(No symbol) [0x0x7ff68d518243]
+	(No symbol) [0x0x7ff68d4e1431]
+	(No symbol) [0x0x7ff68d4e21c3]
+	GetHandleVerifier [0x0x7ff68d9bd29d+3051437]
+	GetHandleVerifier [0x0x7ff68d9b78f3+3028483]
+	GetHandleVerifier [0x0x7ff68d9d588d+3151261]
+	GetHandleVerifier [0x0x7ff68d70182e+185662]
+	GetHandleVerifier [0x0x7ff68d7096ef+218111]
+	GetHandleVerifier [0x0x7ff68d6efae4+112628]
+	GetHandleVerifier [0x0x7ff68d6efc99+113065]
+	GetHandleVerifier [0x0x7ff68d6d6c68+10616]
+	BaseThreadInitThunk [0x0x7fff4182e8d7+23]
+	RtlUserThreadStart [0x0x7fff431fc34c+44]
+
+Tue, 15 Jul 2025 15:19:47-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:19:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:19:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:19:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:19:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:19:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:19:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:19:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:19:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:19:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:19:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:19:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:19:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:19:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:19:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:22:38-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:22:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:22:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:22:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:22:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:22:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:22:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:22:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:22:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:22:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:22:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:22:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:22:44-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//button[@class='el-button el-button--primary el-button--default']")
+Tue, 15 Jul 2025 15:23:43-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:23:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:23:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:23:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:23:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:23:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:23:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:23:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:23:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:23:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:23:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:23:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:23:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:23:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:23:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:28:32-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:28:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:28:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:28:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:28:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:28:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:28:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:28:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:28:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:28:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:28:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:28:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:28:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:28:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:28:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:30:03-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:30:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:30:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:30:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:30:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:30:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:30:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:30:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:30:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:30:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:30:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:30:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:30:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:30:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:30:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:31:05-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:31:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:31:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:31:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:31:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:31:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:31:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:31:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:31:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:31:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:31:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:31:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:31:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:31:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:31:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:33:12-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:33:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:33:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:33:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:33:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:33:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:33:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:33:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:33:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:33:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:33:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:33:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:33:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:33:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:33:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:35:53-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:35:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:35:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:35:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:35:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:35:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:35:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:35:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:35:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:35:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:35:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:35:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:35:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:35:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:35:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:43:31-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:43:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:43:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:43:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:43:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:43:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:43:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:43:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:43:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:43:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Tue, 15 Jul 2025 15:43:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:43:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：人才政策
+Tue, 15 Jul 2025 15:43:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:43:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：test
+Tue, 15 Jul 2025 15:43:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test11
+Tue, 15 Jul 2025 15:43:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Tue, 15 Jul 2025 15:57:14-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 15:57:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 15:57:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 15:57:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 15:57:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 15:57:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 15:57:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 15:57:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 15:57:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 15:57:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：testname
+Tue, 15 Jul 2025 15:57:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 15:57:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：居住政策
+Tue, 15 Jul 2025 15:57:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 15:57:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 15 Jul 2025 15:57:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 15 Jul 2025 15:57:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Tue, 15 Jul 2025 16:22:51-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 16:22:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 16:22:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 16:22:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 16:22:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 16:22:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 16:22:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 16:22:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 16:22:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 16:22:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：testname
+Tue, 15 Jul 2025 16:22:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 16:22:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：居住政策
+Tue, 15 Jul 2025 16:22:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 16:22:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 15 Jul 2025 16:22:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 15 Jul 2025 16:22:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Tue, 15 Jul 2025 16:23:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布管理
+Tue, 15 Jul 2025 16:23:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策列表
+Tue, 15 Jul 2025 16:26:43-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Tue, 15 Jul 2025 16:26:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 16:26:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 16:26:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 16:26:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 16:26:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 16:26:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 16:26:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 16:26:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 16:26:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：testname
+Tue, 15 Jul 2025 16:26:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 16:26:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：居住政策
+Tue, 15 Jul 2025 16:26:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 16:26:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 15 Jul 2025 16:26:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 15 Jul 2025 16:26:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Tue, 15 Jul 2025 16:26:52-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：保存成功
+Tue, 15 Jul 2025 16:40:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 16:40:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 16:40:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 16:40:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 16:40:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 16:40:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 16:40:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 16:40:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 16:40:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：testname
+Tue, 15 Jul 2025 16:40:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 16:40:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：居住政策
+Tue, 15 Jul 2025 16:40:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 16:40:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 15 Jul 2025 16:40:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 15 Jul 2025 16:40:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Tue, 15 Jul 2025 16:40:32-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：保存成功
+Tue, 15 Jul 2025 16:40:32-root-log.py-[line:221]-INFO-[日志信息]: 保存成功，断言通过
+Tue, 15 Jul 2025 16:40:34-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 15 Jul 2025 18:09:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 18:09:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 18:09:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 18:09:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 18:09:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 18:09:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 18:09:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 18:09:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 18:09:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：testname
+Tue, 15 Jul 2025 18:09:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 18:09:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：居住政策
+Tue, 15 Jul 2025 18:09:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 18:09:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 15 Jul 2025 18:09:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 15 Jul 2025 18:09:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Tue, 15 Jul 2025 18:09:54-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：保存成功
+Tue, 15 Jul 2025 18:09:56-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 15 Jul 2025 18:10:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 18:10:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 18:10:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 18:10:08-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@placeholder='请输入验证码']").异常为：
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Tue, 15 Jul 2025 18:10:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Tue, 15 Jul 2025 18:10:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 15 Jul 2025 18:10:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Tue, 15 Jul 2025 18:10:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 15 Jul 2025 18:10:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 15 Jul 2025 18:10:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Tue, 15 Jul 2025 18:10:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Tue, 15 Jul 2025 18:10:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 15 Jul 2025 18:10:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：testname
+Tue, 15 Jul 2025 18:10:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 15 Jul 2025 18:10:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：居住政策
+Tue, 15 Jul 2025 18:10:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间
+Tue, 15 Jul 2025 18:10:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 15 Jul 2025 18:10:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 15 Jul 2025 18:10:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：保存
+Tue, 15 Jul 2025 18:10:26-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：保存成功
+Tue, 15 Jul 2025 18:10:26-root-log.py-[line:221]-INFO-[日志信息]: 保存成功，断言通过
+Tue, 15 Jul 2025 18:10:30-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器

@@ -1,0 +1,30 @@
+Thu, 10 Jul 2025 17:52:37-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@placeholder='请输入验证码'] and contains(text(),'获取验证码')").异常为：
+Message: invalid selector: Unable to locate an element with the xpath expression //input[@placeholder='请输入验证码'] and contains(text(),'获取验证码') because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff648166f65+76917]
+	GetHandleVerifier [0x0x7ff648166fc0+77008]
+	(No symbol) [0x0x7ff647f19dea]
+	(No symbol) [0x0x7ff647f21789]
+	(No symbol) [0x0x7ff647f2482c]
+	(No symbol) [0x0x7ff647f248ff]
+	(No symbol) [0x0x7ff647f6fb07]
+	(No symbol) [0x0x7ff647f7050c]
+	(No symbol) [0x0x7ff647fc3887]
+	(No symbol) [0x0x7ff647f984af]
+	(No symbol) [0x0x7ff647fc065c]
+	(No symbol) [0x0x7ff647f98243]
+	(No symbol) [0x0x7ff647f61431]
+	(No symbol) [0x0x7ff647f621c3]
+	GetHandleVerifier [0x0x7ff64843d29d+3051437]
+	GetHandleVerifier [0x0x7ff6484378f3+3028483]
+	GetHandleVerifier [0x0x7ff64845588d+3151261]
+	GetHandleVerifier [0x0x7ff64818182e+185662]
+	GetHandleVerifier [0x0x7ff6481896ef+218111]
+	GetHandleVerifier [0x0x7ff64816fae4+112628]
+	GetHandleVerifier [0x0x7ff64816fc99+113065]
+	GetHandleVerifier [0x0x7ff648156c68+10616]
+	BaseThreadInitThunk [0x0x7ffd139ce8d7+23]
+	RtlUserThreadStart [0x0x7ffd141dc34c+44]
+

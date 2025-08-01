@@ -1,0 +1,44 @@
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:227]-ERROR-[日志信息]: 截图发生异常Alert Text: 订单提交失败
+Message: unexpected alert open: {Alert text : 订单提交失败}
+  (Session info: chrome=138.0.7204.97)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff750266f65+76917]
+	GetHandleVerifier [0x0x7ff750266fc0+77008]
+	(No symbol) [0x0x7ff750019dea]
+	(No symbol) [0x0x7ff7500c110c]
+	(No symbol) [0x0x7ff750098243]
+	(No symbol) [0x0x7ff750061431]
+	(No symbol) [0x0x7ff7500621c3]
+	GetHandleVerifier [0x0x7ff75053d29d+3051437]
+	GetHandleVerifier [0x0x7ff7505378f3+3028483]
+	GetHandleVerifier [0x0x7ff75055588d+3151261]
+	GetHandleVerifier [0x0x7ff75028182e+185662]
+	GetHandleVerifier [0x0x7ff7502896ef+218111]
+	GetHandleVerifier [0x0x7ff75026fae4+112628]
+	GetHandleVerifier [0x0x7ff75026fc99+113065]
+	GetHandleVerifier [0x0x7ff750256c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6b1ae8d7+23]
+	RtlUserThreadStart [0x0x7ffb6c49c34c+44]
+
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:227]-ERROR-[日志信息]: Alert Text: 订单提交失败
+Message: unexpected alert open: {Alert text : 订单提交失败}
+  (Session info: chrome=138.0.7204.97)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff750266f65+76917]
+	GetHandleVerifier [0x0x7ff750266fc0+77008]
+	(No symbol) [0x0x7ff750019dea]
+	(No symbol) [0x0x7ff7500c110c]
+	(No symbol) [0x0x7ff750098243]
+	(No symbol) [0x0x7ff750061431]
+	(No symbol) [0x0x7ff7500621c3]
+	GetHandleVerifier [0x0x7ff75053d29d+3051437]
+	GetHandleVerifier [0x0x7ff7505378f3+3028483]
+	GetHandleVerifier [0x0x7ff75055588d+3151261]
+	GetHandleVerifier [0x0x7ff75028182e+185662]
+	GetHandleVerifier [0x0x7ff7502896ef+218111]
+	GetHandleVerifier [0x0x7ff75026fae4+112628]
+	GetHandleVerifier [0x0x7ff75026fc99+113065]
+	GetHandleVerifier [0x0x7ff750256c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6b1ae8d7+23]
+	RtlUserThreadStart [0x0x7ffb6c49c34c+44]
+

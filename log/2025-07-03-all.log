@@ -1,0 +1,761 @@
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 14:08:39-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:40-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 14:08:40-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 14:08:40-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:42-root-log.py-[line:218]-INFO-[日志信息]: 点击退出
+Thu, 03 Jul 2025 14:08:42-root-log.py-[line:218]-INFO-[日志信息]: 断言通过
+Thu, 03 Jul 2025 14:08:42-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:42-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Thu, 03 Jul 2025 14:08:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 14:08:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:44-root-log.py-[line:218]-INFO-[日志信息]: 断言通过
+Thu, 03 Jul 2025 14:08:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 14:08:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Thu, 03 Jul 2025 14:08:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:47-root-log.py-[line:218]-INFO-[日志信息]: 断言通过
+Thu, 03 Jul 2025 14:08:48-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 14:08:50-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 14:08:53-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 14:08:53-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: select *from df_user_userinfo where uname="test_mail_004"
+Thu, 03 Jul 2025 14:08:53-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[(71, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]
+Thu, 03 Jul 2025 14:08:53-root-log.py-[line:218]-INFO-[日志信息]: [[(71, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]]
+Thu, 03 Jul 2025 14:08:53-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 14:08:53-root-log.py-[line:218]-INFO-[日志信息]: 数据库存在test_mail_004
+Thu, 03 Jul 2025 14:08:54-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:54-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：test_mail_004
+Thu, 03 Jul 2025 14:08:55-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：test_mail_004
+Thu, 03 Jul 2025 14:08:55-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 14:08:58-root-log.py-[line:218]-INFO-[日志信息]: test_mail_004登录成功
+Thu, 03 Jul 2025 14:09:00-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:11:42-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:11:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:11:48-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:11:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: select *from df_user_userinfo where uname="test_mail_004"
+Thu, 03 Jul 2025 15:11:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[(72, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]
+Thu, 03 Jul 2025 15:11:48-root-log.py-[line:218]-INFO-[日志信息]: [[(72, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]]
+Thu, 03 Jul 2025 15:11:48-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:11:48-root-log.py-[line:218]-INFO-[日志信息]: 数据库存在test_mail_004
+Thu, 03 Jul 2025 15:11:48-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 15:11:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：test_mail_004
+Thu, 03 Jul 2025 15:11:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：test_mail_004
+Thu, 03 Jul 2025 15:11:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 15:11:52-root-log.py-[line:218]-INFO-[日志信息]: test_mail_004登录成功
+Thu, 03 Jul 2025 15:11:55-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:30:43-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:30:44-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:30:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:30:48-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:34:00-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:34:01-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:34:03-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:34:05-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:38:18-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:38:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:38:21-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:38:23-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:38:52-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:38:53-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:38:55-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:38:58-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:39:21-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:39:24-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:39:26-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:39:50-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:39:53-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:39:55-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:40:34-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:40:35-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:40:37-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:40:39-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:42:51-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:42:52-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:42:54-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:42:56-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:43:14-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:43:15-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:43:17-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:43:20-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:44:02-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:44:03-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:44:05-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:44:05-root-log.py-[line:220]-DEBUG-[日志信息]: <selenium.webdriver.remote.webelement.WebElement (session="491ba4b607e55a50bc3c671fad8e0819", element="f.92294F62643B1246B7AAEE9A3EAFC8E8.d.924AB361CEF303275967A8E31D062C14.e.94")>
+Thu, 03 Jul 2025 15:44:07-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:220]-DEBUG-[日志信息]: 打开浏览器,进入网站
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:220]-DEBUG-[日志信息]: 全屏化窗口
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:220]-DEBUG-[日志信息]: 初始化数据
+Thu, 03 Jul 2025 15:44:47-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:44:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：注册
+Thu, 03 Jul 2025 15:44:50-root-log.py-[line:220]-DEBUG-[日志信息]: 用户名已经存在
+Thu, 03 Jul 2025 15:44:52-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 16:37:25-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:37:28-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 16:39:59-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:40:01-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 16:43:14-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:43:15-root-log.py-[line:224]-ERROR-[日志信息]: 无法定位到该元素：.异常为：
+float() argument must be a string or a number, not 'tuple'
+Thu, 03 Jul 2025 16:43:17-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:224]-ERROR-[日志信息]: 无法定位到该元素：.异常为：
+float() argument must be a string or a number, not 'tuple'
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:224]-ERROR-[日志信息]: 无法定位到该元素：.异常为：
+float() argument must be a string or a number, not 'tuple'
+Thu, 03 Jul 2025 16:49:03-root-log.py-[line:224]-ERROR-[日志信息]: 无法定位到该元素：.异常为：
+float() argument must be a string or a number, not 'tuple'
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 16:56:48-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:56:49-root-log.py-[line:224]-ERROR-[日志信息]: 无法定位到该元素：.异常为：
+float() argument must be a string or a number, not 'tuple'
+Thu, 03 Jul 2025 16:56:49-root-log.py-[line:224]-ERROR-[日志信息]: 无法定位到该元素：.异常为：
+float() argument must be a string or a number, not 'tuple'
+Thu, 03 Jul 2025 16:56:49-root-log.py-[line:224]-ERROR-[日志信息]: 无法定位到该元素：.异常为：
+float() argument must be a string or a number, not 'tuple'
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 16:59:08-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 16:59:48-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:06:30-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:12:27-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:12:40-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:13:56-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:19:42-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:24:42-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:34:41-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:34:42-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:34:42-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:34:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:34:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:38:03-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:38:06-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:38:07-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:38:07-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:38:07-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:43:47-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:43:48-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:43:48-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:43:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:47:51-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:47:52-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:47:52-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:47:53-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:47:53-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:51:24-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:51:25-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:51:25-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:51:26-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:51:26-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:51:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:51:50-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:51:50-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:51:51-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:52:44-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:52:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:52:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:52:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 17:57:16-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 17:57:17-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 17:57:17-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 17:57:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:03:22-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:03:23-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:03:23-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:03:23-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 18:05:38-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:05:39-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:05:39-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:05:40-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:05:40-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:05:41-root-log.py-[line:218]-INFO-[日志信息]: 点击：退出
+Thu, 03 Jul 2025 18:05:41-root-log.py-[line:218]-INFO-[日志信息]: 点击退出
+Thu, 03 Jul 2025 18:05:42-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:05:42-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Thu, 03 Jul 2025 18:05:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:05:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:05:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:05:45-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:05:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Thu, 03 Jul 2025 18:05:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 18:06:42-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:06:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:06:43-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:06:44-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:06:44-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:06:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：退出
+Thu, 03 Jul 2025 18:06:46-root-log.py-[line:218]-INFO-[日志信息]: 点击退出
+Thu, 03 Jul 2025 18:06:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:06:47-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Thu, 03 Jul 2025 18:06:47-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:06:47-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:06:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:06:49-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:06:50-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Thu, 03 Jul 2025 18:06:50-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 18:07:11-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:07:12-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:07:13-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:07:13-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:07:13-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:07:15-root-log.py-[line:218]-INFO-[日志信息]: 点击：退出
+Thu, 03 Jul 2025 18:07:15-root-log.py-[line:218]-INFO-[日志信息]: 点击退出
+Thu, 03 Jul 2025 18:07:15-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:07:16-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Thu, 03 Jul 2025 18:07:16-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:07:16-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:07:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:07:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:07:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Thu, 03 Jul 2025 18:07:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:10:12-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:10:13-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:10:13-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:10:14-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:10:15-root-log.py-[line:218]-INFO-[日志信息]: 点击：退出
+Thu, 03 Jul 2025 18:10:15-root-log.py-[line:218]-INFO-[日志信息]: 点击退出
+Thu, 03 Jul 2025 18:10:15-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:10:16-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Thu, 03 Jul 2025 18:10:16-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:10:17-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:10:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:10:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:10:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Thu, 03 Jul 2025 18:10:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkillner','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: [[], [], [], [], []]
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Thu, 03 Jul 2025 18:13:17-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:13:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:13:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:13:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:13:20-root-log.py-[line:218]-INFO-[日志信息]: 点击：退出
+Thu, 03 Jul 2025 18:13:20-root-log.py-[line:218]-INFO-[日志信息]: 点击退出
+Thu, 03 Jul 2025 18:13:20-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:13:21-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Thu, 03 Jul 2025 18:13:21-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Thu, 03 Jul 2025 18:13:22-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:13:23-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Thu, 03 Jul 2025 18:13:24-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkillner
+Thu, 03 Jul 2025 18:13:24-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Thu, 03 Jul 2025 18:13:25-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录

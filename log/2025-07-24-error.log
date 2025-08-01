@@ -1,0 +1,216 @@
+Thu, 24 Jul 2025 16:29:32-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素：发布中心.异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff793190256]
+	(No symbol) [0x0x7ff79319050c]
+	(No symbol) [0x0x7ff7931e3887]
+	(No symbol) [0x0x7ff7931b84af]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 16:30:02-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//div[@class='el-upload el-upload--picture-card']//input[@name='files']").异常为：
+Message: 
+
+Thu, 24 Jul 2025 16:39:41-root-log.py-[line:126]-ERROR-[日志信息]: 发生异常：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff79319001e]
+	(No symbol) [0x0x7ff79319050c]
+	(No symbol) [0x0x7ff7931e3887]
+	(No symbol) [0x0x7ff7931b84af]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 16:41:40-root-log.py-[line:126]-ERROR-[日志信息]: 发生异常：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff79319001e]
+	(No symbol) [0x0x7ff79319050c]
+	(No symbol) [0x0x7ff7931e3887]
+	(No symbol) [0x0x7ff7931b84af]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 16:43:01-root-log.py-[line:126]-ERROR-[日志信息]: 发生异常：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff79319001e]
+	(No symbol) [0x0x7ff79319050c]
+	(No symbol) [0x0x7ff7931e3887]
+	(No symbol) [0x0x7ff7931b84af]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 16:47:03-root-log.py-[line:126]-ERROR-[日志信息]: 发生异常：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff79319001e]
+	(No symbol) [0x0x7ff79319050c]
+	(No symbol) [0x0x7ff7931e3887]
+	(No symbol) [0x0x7ff7931b84af]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 16:48:24-root-log.py-[line:126]-ERROR-[日志信息]: 发生异常：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff79319001e]
+	(No symbol) [0x0x7ff79319050c]
+	(No symbol) [0x0x7ff7931e3887]
+	(No symbol) [0x0x7ff7931b84af]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 16:54:28-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@placeholder='请输入验证码']").异常为：
+'NoneType' object has no attribute 'is_displayed'
+Thu, 24 Jul 2025 16:57:06-root-log.py-[line:126]-ERROR-[日志信息]: 发生异常：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff79319001e]
+	(No symbol) [0x0x7ff79319050c]
+	(No symbol) [0x0x7ff7931e3887]
+	(No symbol) [0x0x7ff7931b84af]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 17:04:46-root-log.py-[line:126]-ERROR-[日志信息]: 发生异常：'list' object has no attribute 'send_keys'
+Thu, 24 Jul 2025 17:15:12-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素：请选择课程类型.异常为：
+Message: element click intercepted: Element <span>...</span> is not clickable at point (410, 512). Other element would receive the click: <div class="el-loading-mask is-fullscreen" style="background-color: rgba(0, 0, 0, 0.7); z-index: 2010;">...</div>
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff793386f65+76917]
+	GetHandleVerifier [0x0x7ff793386fc0+77008]
+	(No symbol) [0x0x7ff793139dea]
+	(No symbol) [0x0x7ff793198269]
+	(No symbol) [0x0x7ff793195c02]
+	(No symbol) [0x0x7ff793192c41]
+	(No symbol) [0x0x7ff793191b31]
+	(No symbol) [0x0x7ff793183368]
+	(No symbol) [0x0x7ff7931b846a]
+	(No symbol) [0x0x7ff793182c16]
+	(No symbol) [0x0x7ff7931b8680]
+	(No symbol) [0x0x7ff7931e065c]
+	(No symbol) [0x0x7ff7931b8243]
+	(No symbol) [0x0x7ff793181431]
+	(No symbol) [0x0x7ff7931821c3]
+	GetHandleVerifier [0x0x7ff79365d29d+3051437]
+	GetHandleVerifier [0x0x7ff7936578f3+3028483]
+	GetHandleVerifier [0x0x7ff79367588d+3151261]
+	GetHandleVerifier [0x0x7ff7933a182e+185662]
+	GetHandleVerifier [0x0x7ff7933a96ef+218111]
+	GetHandleVerifier [0x0x7ff79338fae4+112628]
+	GetHandleVerifier [0x0x7ff79338fc99+113065]
+	GetHandleVerifier [0x0x7ff793376c68+10616]
+	BaseThreadInitThunk [0x0x7ffedb6de8d7+23]
+	RtlUserThreadStart [0x0x7ffedc9fc34c+44]
+
+Thu, 24 Jul 2025 17:18:15-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素：其他类型.异常为：
+Message: 
+
+Thu, 24 Jul 2025 17:21:26-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素：发布中心.异常为：
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))

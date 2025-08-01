@@ -1,0 +1,1349 @@
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:14:56-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:14:57-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:14:58-root-log.py-[line:218]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 15:14:58-root-log.py-[line:218]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 15:15:00-root-log.py-[line:218]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 15:15:01-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 15:15:01-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 15:15:01-root-log.py-[line:218]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 15:15:02-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[('2025070815150241', '2025-07-08 15:15:02.051980', 0, 22, '', 41)]
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:220]-DEBUG-[日志信息]: [[('2025070815150241', '2025-07-08 15:15:02.051980', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:218]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:220]-DEBUG-[日志信息]: 2025070815150241
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:218]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070815150241
+已支付
+Tue, 08 Jul 2025 15:15:03-root-log.py-[line:218]-INFO-[日志信息]: 订单页面查询订单存在，断言通过
+Tue, 08 Jul 2025 15:15:05-root-log.py-[line:218]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:22:45-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:22:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:22:46-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:22:47-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:22:48-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 15:22:48-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 15:22:48-root-log.py-[line:218]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 15:22:49-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 15:22:50-root-log.py-[line:218]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 15:22:50-root-log.py-[line:218]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 15:22:52-root-log.py-[line:218]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:23:16-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:23:17-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 15:23:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 15:23:18-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:23:18-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 15:23:19-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 15:23:19-root-log.py-[line:218]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 15:23:19-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 15:23:20-root-log.py-[line:218]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 15:23:20-root-log.py-[line:218]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 15:23:22-root-log.py-[line:218]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:27:51-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:27:53-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:28:20-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:29:28-root-log.py-[line:220]-DEBUG-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:30:12-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:30:13-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 15:30:13-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 15:30:14-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 15:30:15-root-log.py-[line:218]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 15:30:15-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 15:30:16-root-log.py-[line:218]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 15:30:16-root-log.py-[line:218]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 15:30:18-root-log.py-[line:218]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:52:58-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:52:59-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:52:59-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:53:00-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 15:53:01-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 15:53:01-root-log.py-[line:218]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 15:53:01-root-log.py-[line:218]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 15:53:04-root-log.py-[line:218]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 15:53:04-root-log.py-[line:218]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 15:53:06-root-log.py-[line:218]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:220]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 15:55:56-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:55:57-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:55:57-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 15:55:58-root-log.py-[line:218]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 15:55:58-root-log.py-[line:218]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 15:55:59-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 15:55:59-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 15:55:59-root-log.py-[line:218]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 15:55:59-root-log.py-[line:218]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:218]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:218]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:218]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:218]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:218]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:218]-INFO-[日志信息]: sql执行结果:[('2025070815560241', '2025-07-08 15:56:02.619050', 0, 22, '', 41)]
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:220]-DEBUG-[日志信息]: [[('2025070815560241', '2025-07-08 15:56:02.619050', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 15:56:02-root-log.py-[line:218]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 15:56:04-root-log.py-[line:218]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070815560241
+已支付
+Tue, 08 Jul 2025 15:56:06-root-log.py-[line:218]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:37:24-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:37:25-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:37:25-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:1.32second
+Tue, 08 Jul 2025 16:37:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 16:37:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 16:37:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:27-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：painkiller | 退出
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: 点击退出
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.07second
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Tue, 08 Jul 2025 16:37:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 16:37:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: 用户名错误
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.6second
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:37:30-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 16:37:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Tue, 08 Jul 2025 16:37:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: 密码错误
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.65second
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:37:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:37:39-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:37:39-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select *from df_user_userinfo where uname="test_mail_004"
+Tue, 08 Jul 2025 16:37:39-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[(95, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]
+Tue, 08 Jul 2025 16:37:39-root-log.py-[line:223]-DEBUG-[日志信息]: [[(95, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]]
+Tue, 08 Jul 2025 16:37:39-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:37:39-root-log.py-[line:221]-INFO-[日志信息]: 断言数据库存在test_mail_004
+Tue, 08 Jul 2025 16:37:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：test_mail_004
+Tue, 08 Jul 2025 16:37:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：test_mail_004
+Tue, 08 Jul 2025 16:37:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:37:43-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：test_mail_004 | 退出
+Tue, 08 Jul 2025 16:37:43-root-log.py-[line:221]-INFO-[日志信息]: test_mail_004登录成功
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: 退出
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:10.85second
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:37:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:37:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:37:50-root-log.py-[line:221]-INFO-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 16:37:50-root-log.py-[line:223]-DEBUG-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 16:37:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:37:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.79second
+Tue, 08 Jul 2025 16:37:52-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:37:52-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.28second
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:1.27second
+Tue, 08 Jul 2025 16:42:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:42:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 16:42:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 16:42:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：painkiller | 退出
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: 点击退出
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.06second
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:42:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:42:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Tue, 08 Jul 2025 16:42:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 16:42:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:42:58-root-log.py-[line:221]-INFO-[日志信息]: 用户名错误
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.68second
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:42:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 16:43:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Tue, 08 Jul 2025 16:43:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: 密码错误
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.71second
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.01second
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:43:01-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:43:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:43:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:43:07-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:07-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select *from df_user_userinfo where uname="test_mail_004"
+Tue, 08 Jul 2025 16:43:07-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[(96, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]
+Tue, 08 Jul 2025 16:43:07-root-log.py-[line:223]-DEBUG-[日志信息]: [[(96, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]]
+Tue, 08 Jul 2025 16:43:07-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:07-root-log.py-[line:221]-INFO-[日志信息]: 断言数据库存在test_mail_004
+Tue, 08 Jul 2025 16:43:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:43:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：test_mail_004
+Tue, 08 Jul 2025 16:43:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：test_mail_004
+Tue, 08 Jul 2025 16:43:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:43:12-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：test_mail_004 | 退出
+Tue, 08 Jul 2025 16:43:12-root-log.py-[line:221]-INFO-[日志信息]: test_mail_004登录成功
+Tue, 08 Jul 2025 16:43:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 16:43:12-root-log.py-[line:221]-INFO-[日志信息]: 退出
+Tue, 08 Jul 2025 16:43:12-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:43:12-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:11.23second
+Tue, 08 Jul 2025 16:43:12-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:43:13-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:43:13-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:43:13-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:43:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:43:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 16:43:18-root-log.py-[line:221]-INFO-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 16:43:18-root-log.py-[line:223]-DEBUG-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 16:43:18-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:43:18-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.82second
+Tue, 08 Jul 2025 16:43:21-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:43:21-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.24second
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:43:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 16:43:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.18second
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 16:43:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 16:43:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 16:43:27-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 16:43:28-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 16:43:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 16:43:28-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 16:43:29-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:29-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 16:43:29-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070816432841', '2025-07-08 16:43:28.499043', 0, 22, '', 41)]
+Tue, 08 Jul 2025 16:43:29-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070816432841', '2025-07-08 16:43:28.499043', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 16:43:29-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:29-root-log.py-[line:221]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 16:43:29-root-log.py-[line:223]-DEBUG-[日志信息]: 2025070816432841
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070816432841
+已支付
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 订单页面查询订单存在，断言通过
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.75second
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 16:43:30-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 16:43:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 16:43:31-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='call' outcome='passed'>
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.39second
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 16:43:32-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 16:43:33-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 16:43:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 16:43:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070816433241', '2025-07-08 16:43:32.432482', 0, 22, '', 41), ('2025070816433641', '2025-07-08 16:43:36.424209', 0, 22, '', 41)]
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070816433241', '2025-07-08 16:43:32.432482', 0, 22, '', 41), ('2025070816433641', '2025-07-08 16:43:36.424209', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 16:43:36-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:43:37-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070816433641
+已支付
+Tue, 08 Jul 2025 16:43:42-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='call' outcome='failed'>
+Tue, 08 Jul 2025 16:43:42-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.47second
+Tue, 08 Jul 2025 16:43:42-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Tue, 08 Jul 2025 16:43:42-root-log.py-[line:221]-INFO-[日志信息]: 创建目录：D:\python program\project\auto-ui-share\log\images_allure\tmp_chrome_save_screenshot1751964222.jpg
+Tue, 08 Jul 2025 16:43:43-root-log.py-[line:221]-INFO-[日志信息]: 网页截图
+Tue, 08 Jul 2025 16:43:45-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 16:43:45-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 16:43:45-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.24second
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:46:29-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:46:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:46:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 16:46:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 16:46:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:46:32-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 16:46:32-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 16:46:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 16:46:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070816463541', '2025-07-08 16:46:35.701314', 0, 22, '', 41)]
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070816463541', '2025-07-08 16:46:35.701314', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 16:46:35-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:46:37-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070816463541
+已支付
+Tue, 08 Jul 2025 16:46:39-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:58:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:58:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 16:58:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 16:58:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 16:58:43-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 16:58:44-root-log.py-[line:221]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 16:58:46-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:13:44-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:13:45-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:13:45-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:1.29second
+Tue, 08 Jul 2025 17:13:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:13:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:13:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:13:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:13:47-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：painkiller | 退出
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: 点击退出
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.01second
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:13:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Tue, 08 Jul 2025 17:13:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:13:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: 用户名错误
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.66second
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:13:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:13:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:13:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:13:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Tue, 08 Jul 2025 17:13:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: 密码错误
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.77second
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.01second
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:13:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:13:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:13:59-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:13:59-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select *from df_user_userinfo where uname="test_mail_004"
+Tue, 08 Jul 2025 17:13:59-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[(97, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]
+Tue, 08 Jul 2025 17:13:59-root-log.py-[line:223]-DEBUG-[日志信息]: [[(97, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]]
+Tue, 08 Jul 2025 17:13:59-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:13:59-root-log.py-[line:221]-INFO-[日志信息]: 断言数据库存在test_mail_004
+Tue, 08 Jul 2025 17:13:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:14:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：test_mail_004
+Tue, 08 Jul 2025 17:14:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：test_mail_004
+Tue, 08 Jul 2025 17:14:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:14:05-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：test_mail_004 | 退出
+Tue, 08 Jul 2025 17:14:05-root-log.py-[line:221]-INFO-[日志信息]: test_mail_004登录成功
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: 退出
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:12.56second
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.01second
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:14:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:14:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:14:11-root-log.py-[line:221]-INFO-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 17:14:11-root-log.py-[line:223]-DEBUG-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 17:14:11-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:14:11-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.68second
+Tue, 08 Jul 2025 17:14:14-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:14:14-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.2second
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:14:15-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:14:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:14:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:4.11second
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:14:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:14:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:14:21-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:14:21-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:14:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:14:22-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:14:23-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:23-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:14:23-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:23-root-log.py-[line:223]-DEBUG-[日志信息]: [[]]
+Tue, 08 Jul 2025 17:14:23-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:23-root-log.py-[line:221]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 17:14:27-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='call' outcome='failed'>
+Tue, 08 Jul 2025 17:14:27-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.23second
+Tue, 08 Jul 2025 17:14:27-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:227]-ERROR-[日志信息]: 截图发生异常Alert Text: 订单提交失败
+Message: unexpected alert open: {Alert text : 订单提交失败}
+  (Session info: chrome=138.0.7204.97)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff750266f65+76917]
+	GetHandleVerifier [0x0x7ff750266fc0+77008]
+	(No symbol) [0x0x7ff750019dea]
+	(No symbol) [0x0x7ff7500c110c]
+	(No symbol) [0x0x7ff750098243]
+	(No symbol) [0x0x7ff750061431]
+	(No symbol) [0x0x7ff7500621c3]
+	GetHandleVerifier [0x0x7ff75053d29d+3051437]
+	GetHandleVerifier [0x0x7ff7505378f3+3028483]
+	GetHandleVerifier [0x0x7ff75055588d+3151261]
+	GetHandleVerifier [0x0x7ff75028182e+185662]
+	GetHandleVerifier [0x0x7ff7502896ef+218111]
+	GetHandleVerifier [0x0x7ff75026fae4+112628]
+	GetHandleVerifier [0x0x7ff75026fc99+113065]
+	GetHandleVerifier [0x0x7ff750256c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6b1ae8d7+23]
+	RtlUserThreadStart [0x0x7ffb6c49c34c+44]
+
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:227]-ERROR-[日志信息]: Alert Text: 订单提交失败
+Message: unexpected alert open: {Alert text : 订单提交失败}
+  (Session info: chrome=138.0.7204.97)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff750266f65+76917]
+	GetHandleVerifier [0x0x7ff750266fc0+77008]
+	(No symbol) [0x0x7ff750019dea]
+	(No symbol) [0x0x7ff7500c110c]
+	(No symbol) [0x0x7ff750098243]
+	(No symbol) [0x0x7ff750061431]
+	(No symbol) [0x0x7ff7500621c3]
+	GetHandleVerifier [0x0x7ff75053d29d+3051437]
+	GetHandleVerifier [0x0x7ff7505378f3+3028483]
+	GetHandleVerifier [0x0x7ff75055588d+3151261]
+	GetHandleVerifier [0x0x7ff75028182e+185662]
+	GetHandleVerifier [0x0x7ff7502896ef+218111]
+	GetHandleVerifier [0x0x7ff75026fae4+112628]
+	GetHandleVerifier [0x0x7ff75026fc99+113065]
+	GetHandleVerifier [0x0x7ff750256c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6b1ae8d7+23]
+	RtlUserThreadStart [0x0x7ffb6c49c34c+44]
+
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:14:28-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:29-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:14:29-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:14:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:14:30-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.72second
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:14:31-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:14:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:14:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817143541', '2025-07-08 17:14:35.522211', 0, 34, '', 41)]
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817143541', '2025-07-08 17:14:35.522211', 0, 34, '', 41)]]
+Tue, 08 Jul 2025 17:14:35-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:14:37-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817143541
+已支付
+Tue, 08 Jul 2025 17:14:37-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:14:37-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.66second
+Tue, 08 Jul 2025 17:14:39-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 17:14:39-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:14:39-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.22second
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:26:28-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:26:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:26:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:26:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:26:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:26:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:26:34-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:26:34-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:26:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:26:34-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:26:35-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:26:35-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:26:35-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817263441', '2025-07-08 17:26:34.769348', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:26:35-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817263441', '2025-07-08 17:26:34.769348', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:26:35-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:26:35-root-log.py-[line:221]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 17:26:35-root-log.py-[line:223]-DEBUG-[日志信息]: 2025070817263441
+Tue, 08 Jul 2025 17:26:36-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817263441
+已支付
+Tue, 08 Jul 2025 17:26:36-root-log.py-[line:221]-INFO-[日志信息]: 订单页面查询订单存在，断言通过
+Tue, 08 Jul 2025 17:26:38-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:32:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.93second
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:32:54-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:32:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:32:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:32:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:32:58-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:32:58-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:32:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:32:59-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817325941', '2025-07-08 17:32:59.105041', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817325941', '2025-07-08 17:32:59.105041', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:223]-DEBUG-[日志信息]: 2025070817325941
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817325941
+已支付
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 订单页面查询订单存在，断言通过
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.63second
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:33:00-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:33:01-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:33:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:33:01-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.32second
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:33:02-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:33:03-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:33:03-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:33:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:33:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:33:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:33:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:33:07-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:33:07-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:33:07-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:33:07-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817330241', '2025-07-08 17:33:02.942436', 0, 22, '', 41), ('2025070817330741', '2025-07-08 17:33:07.091649', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:33:07-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817330241', '2025-07-08 17:33:02.942436', 0, 22, '', 41), ('2025070817330741', '2025-07-08 17:33:07.091649', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:33:07-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:33:08-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817330741
+已支付
+Tue, 08 Jul 2025 17:33:08-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='call' outcome='failed'>
+Tue, 08 Jul 2025 17:33:08-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.61second
+Tue, 08 Jul 2025 17:33:08-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Tue, 08 Jul 2025 17:33:09-root-log.py-[line:221]-INFO-[日志信息]: 网页截图
+Tue, 08 Jul 2025 17:33:12-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 17:33:12-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:33:12-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.2second
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:35:44-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:35:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.04second
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:35:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:35:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:35:49-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:35:50-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:35:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:35:50-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:35:51-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:51-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:35:51-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817355041', '2025-07-08 17:35:50.640311', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:35:51-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817355041', '2025-07-08 17:35:50.640311', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:35:51-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:51-root-log.py-[line:221]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 17:35:51-root-log.py-[line:223]-DEBUG-[日志信息]: 2025070817355041
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817355041
+已支付
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 订单页面查询订单存在，断言通过
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.65second
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:35:52-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:35:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:35:53-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.36second
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:35:54-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:35:55-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:35:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:35:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817355841', '2025-07-08 17:35:58.688391', 0, 34, '', 41)]
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817355841', '2025-07-08 17:35:58.688391', 0, 34, '', 41)]]
+Tue, 08 Jul 2025 17:35:58-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:36:00-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817355841
+已支付
+Tue, 08 Jul 2025 17:36:00-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:36:00-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.64second
+Tue, 08 Jul 2025 17:36:02-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 17:36:02-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:36:02-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.22second
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:38:02-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:38:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.95second
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:38:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:38:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:38:08-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:38:08-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:38:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:38:08-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:38:09-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:09-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:38:09-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817380841', '2025-07-08 17:38:08.761372', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:38:09-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817380841', '2025-07-08 17:38:08.761372', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:38:09-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:09-root-log.py-[line:221]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 17:38:09-root-log.py-[line:223]-DEBUG-[日志信息]: 2025070817380841
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817380841
+已支付
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 订单页面查询订单存在，断言通过
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.66second
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:10-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:38:11-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:38:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:38:11-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.4second
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:38:12-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:38:13-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:38:13-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:38:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:38:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817381241', '2025-07-08 17:38:12.670752', 0, 22, '', 41), ('2025070817381641', '2025-07-08 17:38:16.659202', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817381241', '2025-07-08 17:38:12.670752', 0, 22, '', 41), ('2025070817381641', '2025-07-08 17:38:16.659202', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:38:16-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:38:18-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817381641
+已支付
+Tue, 08 Jul 2025 17:38:18-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='call' outcome='failed'>
+Tue, 08 Jul 2025 17:38:18-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.45second
+Tue, 08 Jul 2025 17:38:18-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Tue, 08 Jul 2025 17:38:19-root-log.py-[line:221]-INFO-[日志信息]: 网页截图
+Tue, 08 Jul 2025 17:38:21-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 17:38:21-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:38:21-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.24second
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:47:39-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:1.34second
+Tue, 08 Jul 2025 17:47:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:47:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:47:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：painkiller | 退出
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: 点击退出
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.22second
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_01]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:47:42-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:47:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：bucunzai
+Tue, 08 Jul 2025 17:47:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:47:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: 用户名错误
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.83second
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_02]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:47:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:47:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123
+Tue, 08 Jul 2025 17:47:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: 密码错误
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: 断言通过
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.77second
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_login[test_shopping_mail_03]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.01second
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:47:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:47:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:47:54-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:47:54-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select *from df_user_userinfo where uname="test_mail_004"
+Tue, 08 Jul 2025 17:47:54-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[(98, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]
+Tue, 08 Jul 2025 17:47:54-root-log.py-[line:223]-DEBUG-[日志信息]: [[(98, 'test_mail_004', '14bc79b5c3620256b294b81b03f3a72bebedbd0e', 'test_mail_004@qq.com', '', '', '', '')]]
+Tue, 08 Jul 2025 17:47:54-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:47:54-root-log.py-[line:221]-INFO-[日志信息]: 断言数据库存在test_mail_004
+Tue, 08 Jul 2025 17:47:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：test_mail_004
+Tue, 08 Jul 2025 17:47:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：test_mail_004
+Tue, 08 Jul 2025 17:47:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: 欢迎您：test_mail_004 | 退出
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: test_mail_004登录成功
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: 退出
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:11.3second
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_004]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.01second
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:47:59-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:48:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:48:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：注册
+Tue, 08 Jul 2025 17:48:05-root-log.py-[line:221]-INFO-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 17:48:05-root-log.py-[line:223]-DEBUG-[日志信息]: 用户名已经存在
+Tue, 08 Jul 2025 17:48:05-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:48:05-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.89second
+Tue, 08 Jul 2025 17:48:07-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_register[test_shopping_mail_005]' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:48:07-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.22second
+Tue, 08 Jul 2025 17:48:08-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:08-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:48:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入用户名,并输入值：painkiller
+Tue, 08 Jul 2025 17:48:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：Admin123-
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.29second
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:48:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:48:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:48:14-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:48:14-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:48:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:48:15-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817481541', '2025-07-08 17:48:15.320521', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817481541', '2025-07-08 17:48:15.320521', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 数据库查询订单存在，断言通过
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:223]-DEBUG-[日志信息]: 2025070817481541
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817481541
+已支付
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 订单页面查询订单存在，断言通过
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:5.59second
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_013' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:48:16-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:17-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', '//body/div[5]/div[2]/ul[1]/li[1]/a[1]/img[1]')
+Tue, 08 Jul 2025 17:48:17-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='buy_now']")
+Tue, 08 Jul 2025 17:48:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:48:18-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 请填写正确的收货地址
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 没填写收货地址，断言通过
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.37second
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_014' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='setup' outcome='passed'>
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderdetailinfo
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_order_orderinfo
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_user_userinfo
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: DELETE FROM df_cart_cartinfo
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: INSERT INTO 'df_user_userinfo' VALUES ('41','painkiller','692834f0179a1aa9b6114c5bf7583cb9c7fce322','38440494@qq.com','','','','')
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[]
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:223]-DEBUG-[日志信息]: [[], [], [], [], []]
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:48:19-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='add_cart']")
+Tue, 08 Jul 2025 17:48:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：用户中心
+Tue, 08 Jul 2025 17:48:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：收货地址
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：修改地址
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：去结算
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//a[@id='order_btn']")
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:221]-INFO-[日志信息]: Connected to DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:221]-INFO-[日志信息]: 执行sql: select * from df_order_orderinfo
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:221]-INFO-[日志信息]: sql执行结果:[('2025070817482741', '2025-07-08 17:48:27.451176', 0, 22, '', 41)]
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:223]-DEBUG-[日志信息]: [[('2025070817482741', '2025-07-08 17:48:27.451176', 0, 22, '', 41)]]
+Tue, 08 Jul 2025 17:48:27-root-log.py-[line:221]-INFO-[日志信息]: Closed DB:D:\python program\project\daily_fresh_demo-master\daily_fresh_demo-master\db.sqlite3
+Tue, 08 Jul 2025 17:48:28-root-log.py-[line:221]-INFO-[日志信息]: 2025年7月8日
+订单号：2025070817482741
+已支付
+Tue, 08 Jul 2025 17:48:29-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='call' outcome='passed'>
+Tue, 08 Jul 2025 17:48:29-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:9.78second
+Tue, 08 Jul 2025 17:48:31-root-log.py-[line:221]-INFO-[日志信息]: 退出浏览器
+Tue, 08 Jul 2025 17:48:31-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_shopping_mall.py::TestShoppingMall::test_shopping_mall_015' when='teardown' outcome='passed'>
+Tue, 08 Jul 2025 17:48:31-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.21second

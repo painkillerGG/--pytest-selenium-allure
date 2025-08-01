@@ -1,0 +1,1119 @@
+Fri, 11 Jul 2025 11:18:06-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 11:18:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 11:18:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 11:18:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 11:18:18-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 11:18:18-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 11:18:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 11:18:19-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 11:18:41-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 11:18:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 11:18:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 11:18:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 11:18:52-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 11:18:52-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 11:18:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 11:18:53-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 11:21:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 11:21:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 11:21:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 11:21:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 11:21:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 11:21:13-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 11:21:13-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 11:21:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 11:27:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 11:27:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 11:27:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 11:27:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 11:27:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 11:28:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 11:28:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 13:42:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 13:42:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 13:42:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 13:42:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 13:42:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 13:42:52-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 13:42:53-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 13:42:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 13:42:53-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 13:42:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 13:42:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 13:42:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 13:42:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 13:42:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 13:42:55-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 13:42:55-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 13:44:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 13:44:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 13:44:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 13:44:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 13:44:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 13:44:49-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 13:44:49-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 13:44:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 13:44:50-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 13:45:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 13:45:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 13:45:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 13:45:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 13:45:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 13:45:13-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 13:45:13-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 13:48:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 13:48:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 13:48:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 13:48:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 13:48:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 13:48:26-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 13:48:26-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 13:48:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 13:48:27-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 13:48:27-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 13:48:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 13:48:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 13:48:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 13:48:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 13:48:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 13:48:29-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 13:48:29-root-log.py-[line:221]-INFO-[日志信息]: 请输入手机号，断言通过
+Fri, 11 Jul 2025 13:59:42-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 13:59:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 13:59:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 14:59:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 14:59:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 14:59:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 14:59:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 14:59:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 14:59:41-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 14:59:42-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 14:59:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 14:59:42-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 14:59:42-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 14:59:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 14:59:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 14:59:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 14:59:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 14:59:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 14:59:44-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 14:59:44-root-log.py-[line:221]-INFO-[日志信息]: 请输入手机号，断言通过
+Fri, 11 Jul 2025 15:00:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:00:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:00:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:00:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:00:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:00:31-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:00:31-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:00:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:00:32-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:00:32-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:00:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:00:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:00:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:00:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:00:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:00:33-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:00:34-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:16:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:16:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:16:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:16:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:16:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:16:22-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:16:22-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:16:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:16:23-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:16:23-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:16:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:16:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:16:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:16:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:16:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:16:24-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:16:24-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:16:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:16:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:19:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:19:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:19:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:19:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:19:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:19:54-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:19:54-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:19:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:19:55-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:19:55-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:19:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:19:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:19:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:19:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:19:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:19:57-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:19:57-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:19:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:19:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:22:38-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:22:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:22:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:22:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:22:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:22:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:22:40-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:22:40-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:22:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:22:41-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:22:41-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:22:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:22:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:22:42-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:22:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:22:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:28:58-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:28:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:28:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:28:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:28:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:29:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:29:00-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:29:00-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:29:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:29:01-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:29:01-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:29:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:29:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:29:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:29:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:29:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:29:03-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:29:03-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:29:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:29:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:29:32-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:29:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:29:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:29:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:29:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:29:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:29:34-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:29:34-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:29:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:29:35-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:29:35-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:29:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:29:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:29:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:29:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:29:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:29:37-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:29:37-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:29:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:29:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:29:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:29:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 15:29:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:29:39-root-log.py-[line:221]-INFO-[日志信息]: 
+Fri, 11 Jul 2025 15:41:54-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:41:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:41:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:41:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:41:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:41:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:41:57-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:41:57-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:41:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:41:58-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:41:58-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:41:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:41:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:41:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:42:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:42:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:42:00-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:42:00-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:42:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:42:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:42:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:42:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 15:42:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:42:02-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 15:42:02-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 15:47:58-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:47:58-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:47:58-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.3second
+Fri, 11 Jul 2025 15:47:59-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 15:47:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:48:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 15:48:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:48:15-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='call' outcome='failed'>
+Fri, 11 Jul 2025 15:48:15-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:16.05second
+Fri, 11 Jul 2025 15:48:15-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Fri, 11 Jul 2025 15:48:50-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:48:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:48:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.68second
+Fri, 11 Jul 2025 15:48:50-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 15:48:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:48:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 15:49:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:12.59second
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:49:02-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:49:24-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='call' outcome='failed'>
+Fri, 11 Jul 2025 15:49:24-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:21.0second
+Fri, 11 Jul 2025 15:49:24-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Fri, 11 Jul 2025 15:49:25-root-log.py-[line:221]-INFO-[日志信息]: 网页截图
+Fri, 11 Jul 2025 15:49:25-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:49:25-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:49:25-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:49:25-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:49:46-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='call' outcome='failed'>
+Fri, 11 Jul 2025 15:49:46-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:20.99second
+Fri, 11 Jul 2025 15:49:46-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Fri, 11 Jul 2025 15:49:47-root-log.py-[line:221]-INFO-[日志信息]: 网页截图
+Fri, 11 Jul 2025 15:49:47-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:49:47-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:49:47-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:49:47-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:08-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='call' outcome='failed'>
+Fri, 11 Jul 2025 15:50:08-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:20.91second
+Fri, 11 Jul 2025 15:50:08-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Fri, 11 Jul 2025 15:50:09-root-log.py-[line:221]-INFO-[日志信息]: 网页截图
+Fri, 11 Jul 2025 15:50:11-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:50:11-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.18second
+Fri, 11 Jul 2025 15:50:23-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:50:23-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:50:23-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.28second
+Fri, 11 Jul 2025 15:50:23-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 15:50:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:50:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:12.45second
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:50:35-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:49-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='call' outcome='failed'>
+Fri, 11 Jul 2025 15:50:49-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:13.19second
+Fri, 11 Jul 2025 15:50:49-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:227]-ERROR-[日志信息]: 截图发生异常Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:227]-ERROR-[日志信息]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:227]-ERROR-[日志信息]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='call' outcome='failed'>
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:50-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:227]-ERROR-[日志信息]: 截图发生异常Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:227]-ERROR-[日志信息]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:227]-ERROR-[日志信息]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='call' outcome='failed'>
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:50:51-root-log.py-[line:221]-INFO-[日志信息]: error.screenshot.
+Fri, 11 Jul 2025 15:50:52-root-log.py-[line:227]-ERROR-[日志信息]: 截图发生异常Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:52-root-log.py-[line:227]-ERROR-[日志信息]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9c1c]
+	(No symbol) [0x0x7ff62ef4055f]
+	(No symbol) [0x0x7ff62ef78332]
+	(No symbol) [0x0x7ff62ef72e53]
+	(No symbol) [0x0x7ff62ef71f19]
+	(No symbol) [0x0x7ff62eec4b05]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	(No symbol) [0x0x7ff62eec3b00]
+	GetHandleVerifier [0x0x7ff62f535f08+4201496]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 15:50:54-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:50:54-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.02second
+Fri, 11 Jul 2025 15:52:34-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:52:34-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 15:52:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:52:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 15:52:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:53:02-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:53:03-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 15:53:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:53:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 15:53:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:53:14-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:53:15-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:53:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:53:15-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:53:15-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:53:54-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:53:54-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:53:54-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.61second
+Fri, 11 Jul 2025 15:53:54-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 15:53:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:53:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 15:54:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:54:06-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:54:06-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:13.05second
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:54:07-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:54:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:54:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:54:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:54:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:54:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:54:10-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:54:10-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:54:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.59second
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:54:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:54:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:54:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.33second
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:54:13-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:54:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:54:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:54:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:54:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 15:54:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:54:15-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 15:54:15-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 15:54:15-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:54:15-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.37second
+Fri, 11 Jul 2025 15:54:18-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:54:18-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.25second
+Fri, 11 Jul 2025 15:54:48-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 15:54:48-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:54:48-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.44second
+Fri, 11 Jul 2025 15:54:48-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 15:54:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:54:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 15:55:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:55:00-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:55:00-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:55:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:13.01second
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_pwdlogin[test_datacenters_01]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:55:01-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:55:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:55:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:55:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:55:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:55:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:55:03-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:3.27second
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_02]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:55:04-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:55:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:55:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.25second
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_03]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='setup' outcome='passed'>
+Fri, 11 Jul 2025 15:55:06-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:0.0second
+Fri, 11 Jul 2025 15:55:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 15:55:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 15:55:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 15:55:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 15:55:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 15:55:09-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 15:55:09-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 15:55:09-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='call' outcome='passed'>
+Fri, 11 Jul 2025 15:55:09-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.37second
+Fri, 11 Jul 2025 15:55:11-root-log.py-[line:221]-INFO-[日志信息]: test report: <TestReport 'testcase/test_login_register.py::TestLogin::test_verifycodelogin[test_datacenters_04]' when='teardown' outcome='passed'>
+Fri, 11 Jul 2025 15:55:11-root-log.py-[line:221]-INFO-[日志信息]: execution time-consuming:2.29second
+Fri, 11 Jul 2025 16:31:59-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 16:31:59-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//div[@class='tab tab-active']")
+Fri, 11 Jul 2025 16:32:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 16:32:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入密码,并输入值：xqpt88888888
+Fri, 11 Jul 2025 16:32:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 16:32:11-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 16:32:11-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 16:32:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 16:32:12-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 16:32:12-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 16:32:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 16:32:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 16:32:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 16:32:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 16:32:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 16:32:22-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 16:32:22-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 16:32:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 16:32:23-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 16:32:23-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 16:32:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 16:32:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 16:32:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 16:32:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 16:32:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 16:32:25-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 16:32:25-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 16:32:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 16:32:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 16:32:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 16:32:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 16:32:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 16:32:27-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 16:32:27-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 16:58:26-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 16:58:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 16:58:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 16:58:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 16:58:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 16:58:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 16:58:28-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 16:58:28-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 16:58:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 16:58:29-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 16:58:29-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 16:58:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 16:58:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 16:58:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 16:58:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 16:58:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 16:58:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 16:58:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 16:58:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 16:58:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 16:58:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 16:58:34-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 16:58:34-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 16:58:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 16:58:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 16:58:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 16:58:36-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@placeholder='请输入验证码']").异常为：
+'NoneType' object is not iterable
+Fri, 11 Jul 2025 17:02:25-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:02:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:02:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:02:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:02:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:02:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:02:28-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:02:28-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:02:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:02:29-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:02:29-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:02:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:02:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:02:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:02:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:02:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:02:31-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:02:31-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:02:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:02:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:02:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:02:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:02:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:02:34-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:02:34-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:02:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:02:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:02:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:02:35-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@placeholder='请输入验证码']").异常为：
+'NoneType' object is not iterable
+Fri, 11 Jul 2025 17:06:06-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:06:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:06:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:06:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:06:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:06:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:06:09-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:06:10-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:06:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:06:12-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:06:12-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:06:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:06:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:06:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:06:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:06:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:06:16-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:06:16-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:06:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:06:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:06:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:06:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:06:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:06:19-root-log.py-[line:221]-INFO-[日志信息]: 
+Fri, 11 Jul 2025 17:06:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:06:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:06:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:06:24-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@placeholder='请输入验证码']").异常为：
+'NoneType' object is not iterable
+Fri, 11 Jul 2025 17:07:46-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:07:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:07:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:07:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:07:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:07:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:07:49-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:07:49-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:07:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:07:50-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:07:50-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:07:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:07:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:07:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:07:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:07:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:07:53-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:07:53-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:07:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:07:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:07:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:07:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:07:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:07:55-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:07:55-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:07:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:07:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:07:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:07:57-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@placeholder='请输入验证码']").异常为：
+'NoneType' object is not iterable
+Fri, 11 Jul 2025 17:10:57-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:10:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:10:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:10:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:10:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:10:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:10:59-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:11:00-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:11:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:11:01-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:11:01-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:11:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:11:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:11:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:11:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:11:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:11:03-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:11:03-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:11:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:11:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:11:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:11:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:11:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:11:06-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:11:06-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:11:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:11:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:11:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:11:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 17:11:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:16:55-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:16:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:16:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:16:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:16:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:16:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:16:58-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:16:58-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:16:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:16:58-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:16:58-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:16:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:17:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:17:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:17:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:17:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:17:01-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:17:01-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:17:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:17:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:17:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:17:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:17:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:17:03-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:17:03-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:17:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:17:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:17:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:17:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 17:17:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:22:36-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:22:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:22:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:22:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:22:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:22:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:22:39-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:22:39-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:22:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:22:39-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:22:39-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:22:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:22:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:22:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:22:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:22:42-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:22:42-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:22:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:22:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:22:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:22:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:22:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:22:44-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:22:44-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:22:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:22:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:22:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:22:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 17:22:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:22:46-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的验证码
+Fri, 11 Jul 2025 17:24:04-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:24:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:24:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:24:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:24:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:24:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:24:06-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:24:07-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:24:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:24:07-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:24:07-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:24:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:24:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:24:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:24:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:24:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:24:09-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:24:09-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:24:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:24:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:24:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:24:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:24:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:24:12-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:24:12-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:24:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:24:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:24:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:24:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 17:24:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:27:39-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:27:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:27:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Fri, 11 Jul 2025 17:27:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:27:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:27:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:27:41-root-log.py-[line:221]-INFO-[日志信息]: 
+Fri, 11 Jul 2025 17:27:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:27:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:27:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:27:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:27:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:27:44-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:27:44-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:27:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:27:45-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:27:45-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:27:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:27:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:27:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:27:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:27:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:27:47-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:27:47-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:27:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:27:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:27:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:27:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:27:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:27:49-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:27:49-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:27:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:27:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:27:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:27:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 17:27:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:29:32-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 17:29:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:29:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Fri, 11 Jul 2025 17:29:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:29:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:29:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:29:35-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Fri, 11 Jul 2025 17:29:35-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Fri, 11 Jul 2025 17:29:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:29:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:29:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:29:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:29:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:29:37-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 17:29:37-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 17:29:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 17:29:38-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 17:29:38-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 17:29:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:29:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 17:29:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:29:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 17:29:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:29:40-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 17:29:40-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 17:29:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:29:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:29:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:29:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 17:29:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 17:29:42-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 17:29:42-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 17:29:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 17:29:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 17:29:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 17:29:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 17:29:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:02:29-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 18:02:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:02:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Fri, 11 Jul 2025 18:02:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:02:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:02:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:02:32-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Fri, 11 Jul 2025 18:02:32-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Fri, 11 Jul 2025 18:02:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:02:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:02:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:02:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:02:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:02:35-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 18:02:35-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 18:02:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 18:02:36-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 18:02:36-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 18:02:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:02:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 18:02:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:02:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:02:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:02:39-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 18:02:39-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 18:02:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:02:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:02:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:02:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 18:02:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:02:42-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 18:02:42-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 18:02:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:02:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:02:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:02:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 18:02:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:02:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:02:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Fri, 11 Jul 2025 18:02:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:02:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 18:02:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:02:57-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff62f146f65+76917]
+	GetHandleVerifier [0x0x7ff62f146fc0+77008]
+	(No symbol) [0x0x7ff62eef9dea]
+	(No symbol) [0x0x7ff62ef50256]
+	(No symbol) [0x0x7ff62ef5050c]
+	(No symbol) [0x0x7ff62efa3887]
+	(No symbol) [0x0x7ff62ef784af]
+	(No symbol) [0x0x7ff62efa065c]
+	(No symbol) [0x0x7ff62ef78243]
+	(No symbol) [0x0x7ff62ef41431]
+	(No symbol) [0x0x7ff62ef421c3]
+	GetHandleVerifier [0x0x7ff62f41d29d+3051437]
+	GetHandleVerifier [0x0x7ff62f4178f3+3028483]
+	GetHandleVerifier [0x0x7ff62f43588d+3151261]
+	GetHandleVerifier [0x0x7ff62f16182e+185662]
+	GetHandleVerifier [0x0x7ff62f1696ef+218111]
+	GetHandleVerifier [0x0x7ff62f14fae4+112628]
+	GetHandleVerifier [0x0x7ff62f14fc99+113065]
+	GetHandleVerifier [0x0x7ff62f136c68+10616]
+	BaseThreadInitThunk [0x0x7ffc9b8de8d7+23]
+	RtlUserThreadStart [0x0x7ffc9cafc34c+44]
+
+Fri, 11 Jul 2025 18:03:06-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 18:03:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:03:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Fri, 11 Jul 2025 18:03:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:03:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:03:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:03:08-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Fri, 11 Jul 2025 18:03:08-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Fri, 11 Jul 2025 18:03:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:03:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:03:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:03:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:03:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:03:12-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 18:03:12-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 18:03:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 18:03:13-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 18:03:13-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 18:03:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:03:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 18:03:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:03:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:03:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:03:16-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 18:03:16-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 18:03:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:03:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:03:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:03:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 18:03:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:03:19-root-log.py-[line:221]-INFO-[日志信息]: 验证码错误
+Fri, 11 Jul 2025 18:03:19-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 18:03:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:03:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:03:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:03:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 18:03:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:03:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:03:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Fri, 11 Jul 2025 18:03:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:03:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:03:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:03:24-root-log.py-[line:221]-INFO-[日志信息]: token格式错误
+Fri, 11 Jul 2025 18:03:24-root-log.py-[line:221]-INFO-[日志信息]: token格式错误，断言通过
+Fri, 11 Jul 2025 18:06:21-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Fri, 11 Jul 2025 18:06:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:06:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Fri, 11 Jul 2025 18:06:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:06:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:06:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:06:23-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Fri, 11 Jul 2025 18:06:23-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Fri, 11 Jul 2025 18:06:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:06:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:06:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:06:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:06:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:06:26-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Fri, 11 Jul 2025 18:06:26-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Fri, 11 Jul 2025 18:06:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Fri, 11 Jul 2025 18:06:27-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Fri, 11 Jul 2025 18:06:27-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Fri, 11 Jul 2025 18:06:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:06:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Fri, 11 Jul 2025 18:06:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:06:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:06:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:06:29-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Fri, 11 Jul 2025 18:06:29-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Fri, 11 Jul 2025 18:06:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:06:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:06:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:06:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Fri, 11 Jul 2025 18:06:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:06:31-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：验证码错误
+Fri, 11 Jul 2025 18:06:31-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Fri, 11 Jul 2025 18:06:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:06:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Fri, 11 Jul 2025 18:06:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:06:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Fri, 11 Jul 2025 18:06:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:06:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Fri, 11 Jul 2025 18:06:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Fri, 11 Jul 2025 18:06:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Fri, 11 Jul 2025 18:06:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Fri, 11 Jul 2025 18:06:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Fri, 11 Jul 2025 18:06:36-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：token格式错误
+Fri, 11 Jul 2025 18:06:36-root-log.py-[line:221]-INFO-[日志信息]: token格式错误，断言通过

@@ -1,0 +1,1350 @@
+Mon, 14 Jul 2025 14:28:05-root-log.py-[line:227]-ERROR-[日志信息]: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=138.0.7204.97)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71aeb6ba5]
+	(No symbol) [0x0x7ff71aea7879]
+	(No symbol) [0x0x7ff71aea9631]
+	(No symbol) [0x0x7ff71aea7b96]
+	(No symbol) [0x0x7ff71aea75f6]
+	(No symbol) [0x0x7ff71aea72ba]
+	(No symbol) [0x0x7ff71aea4e8b]
+	(No symbol) [0x0x7ff71aea570c]
+	(No symbol) [0x0x7ff71aebdd9a]
+	(No symbol) [0x0x7ff71af6143e]
+	(No symbol) [0x0x7ff71af3846a]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:28:39-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:28:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:28:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:28:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:28:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:28:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:28:41-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:28:41-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:28:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:28:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:28:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:28:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:28:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:28:43-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Mon, 14 Jul 2025 14:28:44-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Mon, 14 Jul 2025 14:28:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Mon, 14 Jul 2025 14:28:44-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Mon, 14 Jul 2025 14:28:44-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Mon, 14 Jul 2025 14:28:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:28:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Mon, 14 Jul 2025 14:28:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:28:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:28:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:28:46-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Mon, 14 Jul 2025 14:28:46-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Mon, 14 Jul 2025 14:28:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:28:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:28:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:28:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Mon, 14 Jul 2025 14:28:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:28:49-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：验证码错误
+Mon, 14 Jul 2025 14:28:49-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Mon, 14 Jul 2025 14:28:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:28:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:28:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:28:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Mon, 14 Jul 2025 14:28:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:28:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:28:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Mon, 14 Jul 2025 14:28:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:28:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:28:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:28:53-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：
+Mon, 14 Jul 2025 14:30:38-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:30:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:30:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:30:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:30:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:30:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:30:40-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:30:40-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:31:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:31:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:31:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:31:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:31:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:31:06-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Mon, 14 Jul 2025 14:31:07-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Mon, 14 Jul 2025 14:31:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Mon, 14 Jul 2025 14:31:07-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Mon, 14 Jul 2025 14:31:07-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Mon, 14 Jul 2025 14:31:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:31:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Mon, 14 Jul 2025 14:31:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:31:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:31:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:31:09-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Mon, 14 Jul 2025 14:31:09-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Mon, 14 Jul 2025 14:31:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:31:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:31:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:31:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Mon, 14 Jul 2025 14:31:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:31:11-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：验证码错误
+Mon, 14 Jul 2025 14:31:11-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Mon, 14 Jul 2025 14:31:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:31:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:31:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:31:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Mon, 14 Jul 2025 14:31:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:31:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:31:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Mon, 14 Jul 2025 14:31:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:31:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:31:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:31:43-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:35:22-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:35:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:35:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:35:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:35:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:35:25-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:35:25-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:35:25-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:35:42-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:35:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:35:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:35:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:35:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:35:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:35:44-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:35:44-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:35:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:35:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:35:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:35:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:35:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:35:46-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Mon, 14 Jul 2025 14:35:47-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Mon, 14 Jul 2025 14:35:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Mon, 14 Jul 2025 14:35:47-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Mon, 14 Jul 2025 14:35:47-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Mon, 14 Jul 2025 14:35:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:35:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Mon, 14 Jul 2025 14:35:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:35:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:35:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:35:49-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Mon, 14 Jul 2025 14:35:49-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Mon, 14 Jul 2025 14:35:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:35:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:35:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:35:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Mon, 14 Jul 2025 14:35:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:36:02-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:36:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:36:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:36:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:36:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Mon, 14 Jul 2025 14:36:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:36:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:36:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Mon, 14 Jul 2025 14:36:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:36:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:36:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:36:17-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:38:50-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:38:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:38:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:38:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:38:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:38:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:38:52-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:38:52-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:38:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:38:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:38:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:38:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:38:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:38:54-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Mon, 14 Jul 2025 14:38:55-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Mon, 14 Jul 2025 14:38:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Mon, 14 Jul 2025 14:38:55-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Mon, 14 Jul 2025 14:38:55-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Mon, 14 Jul 2025 14:38:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:38:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Mon, 14 Jul 2025 14:38:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:38:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:38:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:38:58-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Mon, 14 Jul 2025 14:38:58-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Mon, 14 Jul 2025 14:38:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:38:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:38:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:39:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Mon, 14 Jul 2025 14:39:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:39:10-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:39:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:39:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:39:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:39:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Mon, 14 Jul 2025 14:39:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:39:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:39:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Mon, 14 Jul 2025 14:39:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:39:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:39:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:39:25-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:41:42-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:41:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:41:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:41:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:41:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:41:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:41:44-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:41:44-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:41:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:41:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:41:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:41:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:41:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:41:47-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Mon, 14 Jul 2025 14:41:47-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Mon, 14 Jul 2025 14:41:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Mon, 14 Jul 2025 14:41:48-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Mon, 14 Jul 2025 14:41:48-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Mon, 14 Jul 2025 14:41:48-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:41:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Mon, 14 Jul 2025 14:41:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:41:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:41:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:41:50-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Mon, 14 Jul 2025 14:41:50-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Mon, 14 Jul 2025 14:41:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:41:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:41:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:41:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Mon, 14 Jul 2025 14:41:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:41:52-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: invalid selector: Unable to locate an element with the xpath expression .el-message__content because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '.el-message__content' is not a valid XPath expression.
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71aec1789]
+	(No symbol) [0x0x7ff71aec482c]
+	(No symbol) [0x0x7ff71aec48ff]
+	(No symbol) [0x0x7ff71af0fb07]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:41:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:41:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:41:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:41:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Mon, 14 Jul 2025 14:41:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:41:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:41:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Mon, 14 Jul 2025 14:41:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:41:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:41:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:41:58-root-log.py-[line:227]-ERROR-[日志信息]: 获取弹窗异常:Message: invalid selector: Unable to locate an element with the xpath expression .el-message__content because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '.el-message__content' is not a valid XPath expression.
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71aec1789]
+	(No symbol) [0x0x7ff71aec482c]
+	(No symbol) [0x0x7ff71aec48ff]
+	(No symbol) [0x0x7ff71af0fb07]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 14:46:08-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:46:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:46:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:46:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:10-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:46:10-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:46:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:46:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:46:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:13-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Mon, 14 Jul 2025 14:46:13-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Mon, 14 Jul 2025 14:46:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Mon, 14 Jul 2025 14:46:13-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Mon, 14 Jul 2025 14:46:13-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Mon, 14 Jul 2025 14:46:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Mon, 14 Jul 2025 14:46:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:46:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:16-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Mon, 14 Jul 2025 14:46:16-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Mon, 14 Jul 2025 14:46:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:46:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Mon, 14 Jul 2025 14:46:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:18-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：验证码错误
+Mon, 14 Jul 2025 14:46:18-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Mon, 14 Jul 2025 14:46:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:46:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Mon, 14 Jul 2025 14:46:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Mon, 14 Jul 2025 14:46:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:46:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:24-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：token格式错误
+Mon, 14 Jul 2025 14:46:24-root-log.py-[line:221]-INFO-[日志信息]: token格式错误，断言通过
+Mon, 14 Jul 2025 14:46:54-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 14:46:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：
+Mon, 14 Jul 2025 14:46:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:46:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:57-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号
+Mon, 14 Jul 2025 14:46:57-root-log.py-[line:221]-INFO-[日志信息]: 请输入账号，断言通过
+Mon, 14 Jul 2025 14:46:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:46:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:46:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:46:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:46:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:46:59-root-log.py-[line:221]-INFO-[日志信息]: 用户基础数据
+Mon, 14 Jul 2025 14:46:59-root-log.py-[line:221]-INFO-[日志信息]: 点击('xpath', "//i[@class='el-icon']//*[name()='svg']//*[name()='path' and contains(@fill,'currentCol')]")
+Mon, 14 Jul 2025 14:46:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：退出登录
+Mon, 14 Jul 2025 14:47:00-root-log.py-[line:221]-INFO-[日志信息]: 成功点击确定按钮，使用定位器: //div[@class='el-message-box__btns']/button[span='确定']
+Mon, 14 Jul 2025 14:47:00-root-log.py-[line:221]-INFO-[日志信息]: 登录成功，断言通过
+Mon, 14 Jul 2025 14:47:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:47:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：bucunzai
+Mon, 14 Jul 2025 14:47:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:47:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:47:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:47:02-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号
+Mon, 14 Jul 2025 14:47:02-root-log.py-[line:221]-INFO-[日志信息]: 请输入正确的手机号，断言通过
+Mon, 14 Jul 2025 14:47:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:47:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:47:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:47:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：123
+Mon, 14 Jul 2025 14:47:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:47:05-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：验证码错误
+Mon, 14 Jul 2025 14:47:05-root-log.py-[line:221]-INFO-[日志信息]: 弹窗验证码错误，断言通过
+Mon, 14 Jul 2025 14:47:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:47:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 14:47:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:47:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：
+Mon, 14 Jul 2025 14:47:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:47:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 14:47:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：18883228657
+Mon, 14 Jul 2025 14:47:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 14:47:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 14:47:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 14:47:10-root-log.py-[line:221]-INFO-[日志信息]: 弹窗报错：token格式错误
+Mon, 14 Jul 2025 14:47:10-root-log.py-[line:221]-INFO-[日志信息]: token格式错误，断言通过
+Mon, 14 Jul 2025 15:08:21-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 15:09:40-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 15:10:37-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 15:10:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 15:10:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 15:10:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 15:10:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 15:10:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 15:10:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 15:11:19-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 15:11:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 15:11:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 15:11:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 15:11:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 15:11:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 15:11:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 15:14:58-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 15:14:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 15:14:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 15:15:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 15:15:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 15:15:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 15:15:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 15:17:14-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 15:17:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 15:17:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 15:17:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 15:17:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 15:17:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 15:17:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 15:18:38-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 15:18:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 15:18:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 15:18:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 15:18:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 15:18:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 15:18:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 15:18:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 15:18:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:42:09-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:42:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:42:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:42:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:42:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:42:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:42:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:42:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:42:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:44:37-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:44:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:44:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:44:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:44:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:44:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:44:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:44:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:44:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:44:55-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:44:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:44:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:44:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:44:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:44:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:44:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:44:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:44:59-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:45:19-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 16:47:31-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:47:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:47:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:47:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:47:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:47:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:47:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:47:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:47:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:48:13-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:48:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:48:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:48:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:48:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:48:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:48:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:48:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:48:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:48:38-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 16:49:27-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:49:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:49:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:49:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:49:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:49:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:49:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:49:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:49:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:49:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 16:51:43-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:51:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:51:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:51:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:51:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:51:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:51:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:51:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:51:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:51:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 16:54:28-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:54:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:54:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:54:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:54:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:54:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:54:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:54:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:54:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:54:38-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=138.0.7204.97)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71aea6531]
+	(No symbol) [0x0x7ff71aea649c]
+	(No symbol) [0x0x7ff71aea4c2f]
+	(No symbol) [0x0x7ff71aea58ef]
+	(No symbol) [0x0x7ff71aebf341]
+	(No symbol) [0x0x7ff71aebfe37]
+	(No symbol) [0x0x7ff71aec482c]
+	(No symbol) [0x0x7ff71aec48ff]
+	(No symbol) [0x0x7ff71af0fb07]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 16:55:34-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:55:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:55:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:55:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:55:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:55:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:55:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:55:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:56:16-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:56:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:56:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:56:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:56:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:56:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:56:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:56:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:56:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:56:41-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 16:57:17-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:57:17-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:57:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:57:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:57:18-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:57:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:57:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:57:19-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 16:57:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 16:57:42-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 16:59:29-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 16:59:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 16:59:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 16:59:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 16:59:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 16:59:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 16:59:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 16:59:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:04:40-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:04:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:04:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:04:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:04:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:04:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:04:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:04:43-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:04:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:05:05-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:08:48-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:08:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:08:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:08:49-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:08:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:08:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:08:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:08:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:08:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:08:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 17:09:12-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:09:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:09:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:09:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:09:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:09:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:09:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:09:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:09:20-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:09:45-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:11:20-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:11:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:11:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:11:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:11:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:11:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:11:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:11:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:12:26-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:12:26-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:12:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:12:27-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:12:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:12:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:12:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:12:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:12:28-root-log.py-[line:223]-DEBUG-[日志信息]: None
+Mon, 14 Jul 2025 17:12:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:12:51-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:15:31-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:15:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:15:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:15:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:15:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:15:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:15:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:15:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:15:33-root-log.py-[line:223]-DEBUG-[日志信息]: None
+Mon, 14 Jul 2025 17:15:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:15:51-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Mon, 14 Jul 2025 17:24:28-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:24:28-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:24:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:24:29-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:24:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:24:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:24:30-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:24:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:24:31-root-log.py-[line:223]-DEBUG-[日志信息]: None
+Mon, 14 Jul 2025 17:24:31-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:24:53-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:30:10-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:30:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:30:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:30:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:30:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:30:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:30:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:30:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:30:12-root-log.py-[line:223]-DEBUG-[日志信息]: None
+Mon, 14 Jul 2025 17:30:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:30:35-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:30:49-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:30:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:30:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:30:50-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:30:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:30:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:30:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:30:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:30:52-root-log.py-[line:223]-DEBUG-[日志信息]: None
+Mon, 14 Jul 2025 17:30:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:37:21-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:37:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:37:21-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:37:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:37:22-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:37:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:37:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:37:23-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:37:23-root-log.py-[line:223]-DEBUG-[日志信息]: None
+Mon, 14 Jul 2025 17:37:24-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:37:45-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:41:07-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:41:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:41:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:41:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:41:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:41:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:41:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:41:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:41:10-root-log.py-[line:221]-INFO-[日志信息]: 数据中心
+发布中心
+我的发布
+发布管理
+智库管理
+资讯管理
+直播管理
+角色管理
+系统设置
+auto-ui
+我的发布
+政策资讯汇
+发布政策
+已发布0条
+立即发布
+发布项目
+已发布0条
+立即发布
+发布资讯
+已发布0条
+立即发布
+产学研创融合基地
+学校入驻
+已发布0条
+立即发布
+企业入驻
+已发布0条
+立即发布
+发布实训基地
+已发布0条
+立即发布
+在线课程
+上传在线课程
+已发布0条
+立即发布
+Mon, 14 Jul 2025 17:41:10-root-log.py-[line:223]-DEBUG-[日志信息]: 数据中心
+发布中心
+我的发布
+发布管理
+智库管理
+资讯管理
+直播管理
+角色管理
+系统设置
+auto-ui
+我的发布
+政策资讯汇
+发布政策
+已发布0条
+立即发布
+发布项目
+已发布0条
+立即发布
+发布资讯
+已发布0条
+立即发布
+产学研创融合基地
+学校入驻
+已发布0条
+立即发布
+企业入驻
+已发布0条
+立即发布
+发布实训基地
+已发布0条
+立即发布
+在线课程
+上传在线课程
+已发布0条
+立即发布
+Mon, 14 Jul 2025 17:41:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:41:32-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:44:13-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:44:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:44:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:44:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:44:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:44:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:44:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:44:15-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:44:16-root-log.py-[line:221]-INFO-[日志信息]: 立即发布
+Mon, 14 Jul 2025 17:44:16-root-log.py-[line:223]-DEBUG-[日志信息]: 立即发布
+Mon, 14 Jul 2025 17:44:16-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:44:37-root-log.py-[line:227]-ERROR-[日志信息]: 无法定位到该元素('xpath', "//input[@id=//label[contains(normalize-space(), '政策名称')]/@for]").异常为：
+Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 17:45:05-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:45:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:45:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:45:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:45:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:45:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:45:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:45:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:45:08-root-log.py-[line:221]-INFO-[日志信息]: 立即发布
+Mon, 14 Jul 2025 17:45:08-root-log.py-[line:223]-DEBUG-[日志信息]: 立即发布
+Mon, 14 Jul 2025 17:45:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:45:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 17:47:43-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:47:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:47:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:47:44-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:47:45-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:47:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:47:46-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:47:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:47:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 17:47:47-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 17:49:50-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:49:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:49:51-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:49:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:49:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:49:52-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:49:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:49:53-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:49:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:49:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 17:49:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 17:51:00-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:51:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:51:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:51:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:51:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:51:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:51:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:51:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:51:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:51:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 17:51:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 17:51:54-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:51:54-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:51:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:51:55-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:51:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:51:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:51:56-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:51:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:51:57-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:51:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 17:51:58-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 17:52:37-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 17:52:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 17:52:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 17:52:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 17:52:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 17:52:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 17:52:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 17:52:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 17:52:40-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 17:52:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 17:52:41-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 17:52:42-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Mon, 14 Jul 2025 18:04:04-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 18:04:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 18:04:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 18:04:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 18:04:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 18:04:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 18:04:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 18:04:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 18:04:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 18:04:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 18:04:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 18:04:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Mon, 14 Jul 2025 18:04:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间,并输入值：2025-1-1
+Mon, 14 Jul 2025 18:09:09-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 18:09:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 18:09:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 18:09:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 18:09:10-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 18:09:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 18:09:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 18:09:11-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 18:09:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 18:09:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 18:09:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 18:09:13-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Mon, 14 Jul 2025 18:09:14-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间,并输入值：2025-1-1
+Mon, 14 Jul 2025 18:10:32-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 18:10:32-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 18:10:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 18:10:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 18:10:33-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 18:10:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 18:10:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 18:10:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 18:10:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 18:10:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 18:10:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 18:10:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Mon, 14 Jul 2025 18:10:39-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间,并输入值：2025-1-1
+Mon, 14 Jul 2025 18:11:04-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 18:11:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 18:11:05-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 18:11:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 18:11:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 18:11:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 18:11:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 18:11:07-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 18:11:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 18:11:08-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 18:11:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 18:11:09-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Mon, 14 Jul 2025 18:11:12-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间,并输入值：2025-1-1
+Mon, 14 Jul 2025 18:15:59-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 18:16:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 18:16:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 18:16:00-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 18:16:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 18:16:01-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 18:16:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 18:16:02-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 18:16:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 18:16:03-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 18:16:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 18:16:04-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策
+Mon, 14 Jul 2025 18:16:06-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择时间,并输入值：2025-1-1
+Mon, 14 Jul 2025 18:16:16-root-log.py-[line:227]-ERROR-[日志信息]: <UNK>Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff71b106f65+76917]
+	GetHandleVerifier [0x0x7ff71b106fc0+77008]
+	(No symbol) [0x0x7ff71aeb9dea]
+	(No symbol) [0x0x7ff71af10256]
+	(No symbol) [0x0x7ff71af1050c]
+	(No symbol) [0x0x7ff71af63887]
+	(No symbol) [0x0x7ff71af384af]
+	(No symbol) [0x0x7ff71af6065c]
+	(No symbol) [0x0x7ff71af38243]
+	(No symbol) [0x0x7ff71af01431]
+	(No symbol) [0x0x7ff71af021c3]
+	GetHandleVerifier [0x0x7ff71b3dd29d+3051437]
+	GetHandleVerifier [0x0x7ff71b3d78f3+3028483]
+	GetHandleVerifier [0x0x7ff71b3f588d+3151261]
+	GetHandleVerifier [0x0x7ff71b12182e+185662]
+	GetHandleVerifier [0x0x7ff71b1296ef+218111]
+	GetHandleVerifier [0x0x7ff71b10fae4+112628]
+	GetHandleVerifier [0x0x7ff71b10fc99+113065]
+	GetHandleVerifier [0x0x7ff71b0f6c68+10616]
+	BaseThreadInitThunk [0x0x7ffb6ccce8d7+23]
+	RtlUserThreadStart [0x0x7ffb6d7dc34c+44]
+
+Mon, 14 Jul 2025 18:18:33-root-log.py-[line:223]-DEBUG-[日志信息]: 进入网页
+Mon, 14 Jul 2025 18:18:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：验证码登录
+Mon, 14 Jul 2025 18:18:34-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Mon, 14 Jul 2025 18:18:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：获取验证码
+Mon, 14 Jul 2025 18:18:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Mon, 14 Jul 2025 18:18:35-root-log.py-[line:221]-INFO-[日志信息]: 点击：登录
+Mon, 14 Jul 2025 18:18:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布中心
+Mon, 14 Jul 2025 18:18:36-root-log.py-[line:221]-INFO-[日志信息]: 点击：我的发布
+Mon, 14 Jul 2025 18:18:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：发布政策立即发布
+Mon, 14 Jul 2025 18:18:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：政策名称,并输入值：test
+Mon, 14 Jul 2025 18:18:37-root-log.py-[line:221]-INFO-[日志信息]: 点击：请选择你的类型
+Mon, 14 Jul 2025 18:18:38-root-log.py-[line:221]-INFO-[日志信息]: 点击：双休政策

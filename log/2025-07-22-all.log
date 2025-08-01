@@ -1,0 +1,227 @@
+Tue, 22 Jul 2025 14:22:20-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[]
+Tue, 22 Jul 2025 14:22:20-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[]
+Tue, 22 Jul 2025 14:22:20-root-log.py-[line:120]-INFO-[日志信息]: 没有政策可删除
+Tue, 22 Jul 2025 14:22:20-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 14:22:20-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 14:22:20-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 14:23:19-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 14:23:19-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 14:23:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 14:23:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 14:23:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 14:23:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 14:23:21-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[]
+Tue, 22 Jul 2025 14:23:21-root-log.py-[line:120]-INFO-[日志信息]: 没有政策可删除
+Tue, 22 Jul 2025 14:23:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 14:23:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Tue, 22 Jul 2025 14:23:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 22 Jul 2025 14:23:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：政策名称,并输入值：testname1
+Tue, 22 Jul 2025 14:23:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 22 Jul 2025 14:23:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：居住政策
+Tue, 22 Jul 2025 14:23:24-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择时间
+Tue, 22 Jul 2025 14:23:24-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 22 Jul 2025 14:23:25-root-log.py-[line:120]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 22 Jul 2025 14:23:26-root-log.py-[line:120]-INFO-[日志信息]: 上传文件成功
+Tue, 22 Jul 2025 14:23:27-root-log.py-[line:120]-INFO-[日志信息]: 点击：保存
+Tue, 22 Jul 2025 14:23:27-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：
+Tue, 22 Jul 2025 14:23:29-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 14:24:13-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 14:24:13-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 14:24:14-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 14:24:14-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 14:24:15-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 14:24:15-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 14:24:15-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 14:24:15-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 14:24:15-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 14:24:16-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Tue, 22 Jul 2025 14:24:16-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布项目立即发布
+Tue, 22 Jul 2025 14:24:17-root-log.py-[line:120]-INFO-[日志信息]: 点击：项目,并输入值：test_project
+Tue, 22 Jul 2025 14:24:17-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 22 Jul 2025 14:24:17-root-log.py-[line:120]-INFO-[日志信息]: 点击：其他类型
+Tue, 22 Jul 2025 14:24:18-root-log.py-[line:120]-INFO-[日志信息]: 点击：项目需求,并输入值：test_require
+Tue, 22 Jul 2025 14:24:19-root-log.py-[line:120]-INFO-[日志信息]: 上传文件成功
+Tue, 22 Jul 2025 14:24:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：保存
+Tue, 22 Jul 2025 14:24:20-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：保存成功
+Tue, 22 Jul 2025 14:24:20-root-log.py-[line:120]-INFO-[日志信息]: 保存成功，断言通过
+Tue, 22 Jul 2025 14:24:20-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[{'id': 264, 'userId': 198, 'name': 'test_project', 'creator': 'auto-ui', 'projectType': '其他类型', 'status': 'NOT_STARTED', 'readCount': 0, 'demand': '<p>test_require</p>', 'introduction': '<p>test_content</p>', 'attachments': ['http://192.168.31.88:9000/xqhztest-public/static/user/project/attachment/20250722/cad029c1-92b3-427b-847e-98c7b65462f6.txt'], 'estimatedCompletionTime': None, 'completedTime': None, 'partnersInfos': [], 'stageInfos': [], 'reason': None, 'auditor': None, 'passTime': None, 'createdTime': '2025-07-22 14:24:23', 'haveShow': None, 'showId': None}]
+Tue, 22 Jul 2025 14:24:20-root-log.py-[line:122]-DEBUG-[日志信息]: test_project
+Tue, 22 Jul 2025 14:24:20-root-log.py-[line:120]-INFO-[日志信息]: 查询到新增项目，断言通过
+Tue, 22 Jul 2025 14:24:22-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 131, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-22 14:23:24', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250722/af9a6504-5087-4e38-871f-9f6ef3767dc3.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-22 14:23:30', 'modifiedTime': '2025-07-22 14:23:30'}]
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 131, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-22 14:23:24', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250722/af9a6504-5087-4e38-871f-9f6ef3767dc3.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-22 14:23:30', 'modifiedTime': '2025-07-22 14:23:30'}]
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:122]-DEBUG-[日志信息]: 131
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:122]-DEBUG-[日志信息]: 删除131成功状态码：200
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[{'id': 264, 'userId': 198, 'name': 'test_project', 'creator': 'auto-ui', 'projectType': '其他类型', 'status': 'NOT_STARTED', 'readCount': 0, 'demand': '<p>test_require</p>', 'introduction': '<p>test_content</p>', 'attachments': ['http://192.168.31.88:9000/xqhztest-public/static/user/project/attachment/20250722/cad029c1-92b3-427b-847e-98c7b65462f6.txt'], 'estimatedCompletionTime': None, 'completedTime': None, 'partnersInfos': [], 'stageInfos': [], 'reason': None, 'auditor': None, 'passTime': None, 'createdTime': '2025-07-22 14:24:23', 'haveShow': None, 'showId': None}]
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[{'id': 264, 'userId': 198, 'name': 'test_project', 'creator': 'auto-ui', 'projectType': '其他类型', 'status': 'NOT_STARTED', 'readCount': 0, 'demand': '<p>test_require</p>', 'introduction': '<p>test_content</p>', 'attachments': ['http://192.168.31.88:9000/xqhztest-public/static/user/project/attachment/20250722/cad029c1-92b3-427b-847e-98c7b65462f6.txt'], 'estimatedCompletionTime': None, 'completedTime': None, 'partnersInfos': [], 'stageInfos': [], 'reason': None, 'auditor': None, 'passTime': None, 'createdTime': '2025-07-22 14:24:23', 'haveShow': None, 'showId': None}]
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:122]-DEBUG-[日志信息]: 264
+Tue, 22 Jul 2025 14:24:40-root-log.py-[line:122]-DEBUG-[日志信息]: 删除264成功,状态码：200
+Tue, 22 Jul 2025 14:27:06-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[],状态码为：200
+Tue, 22 Jul 2025 14:27:06-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[],状态码为：200
+Tue, 22 Jul 2025 14:27:06-root-log.py-[line:120]-INFO-[日志信息]: 没有政策可删除
+Tue, 22 Jul 2025 14:27:06-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[],状态码为200
+Tue, 22 Jul 2025 14:27:06-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[],状态码为200
+Tue, 22 Jul 2025 14:27:06-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 14:27:46-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[],状态码为：200
+Tue, 22 Jul 2025 14:27:46-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[],状态码为：200
+Tue, 22 Jul 2025 14:27:46-root-log.py-[line:120]-INFO-[日志信息]: 没有政策可删除
+Tue, 22 Jul 2025 14:27:46-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[],状态码为:200
+Tue, 22 Jul 2025 14:27:46-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[],状态码为:200
+Tue, 22 Jul 2025 14:27:46-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 14:28:47-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[]
+Tue, 22 Jul 2025 14:28:47-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[]
+Tue, 22 Jul 2025 14:28:47-root-log.py-[line:120]-INFO-[日志信息]: 没有政策可删除
+Tue, 22 Jul 2025 14:28:47-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 14:28:47-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 14:28:47-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 14:29:06-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 14:29:07-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 14:29:07-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 14:29:07-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 14:29:08-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 14:29:08-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 14:29:08-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[]
+Tue, 22 Jul 2025 14:29:08-root-log.py-[line:120]-INFO-[日志信息]: 没有政策可删除
+Tue, 22 Jul 2025 14:29:09-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 14:29:09-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Tue, 22 Jul 2025 14:29:10-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 22 Jul 2025 14:29:10-root-log.py-[line:120]-INFO-[日志信息]: 点击：政策名称,并输入值：testname1
+Tue, 22 Jul 2025 14:29:11-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 22 Jul 2025 14:29:11-root-log.py-[line:120]-INFO-[日志信息]: 点击：居住政策
+Tue, 22 Jul 2025 14:29:11-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择时间
+Tue, 22 Jul 2025 14:29:12-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 22 Jul 2025 14:29:12-root-log.py-[line:120]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 22 Jul 2025 14:29:13-root-log.py-[line:120]-INFO-[日志信息]: 上传文件成功
+Tue, 22 Jul 2025 14:29:14-root-log.py-[line:120]-INFO-[日志信息]: 点击：保存
+Tue, 22 Jul 2025 14:29:14-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：保存成功
+Tue, 22 Jul 2025 14:29:14-root-log.py-[line:120]-INFO-[日志信息]: 保存成功，断言通过
+Tue, 22 Jul 2025 14:29:14-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 132, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-22 14:29:11', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250722/8cd017c2-16e6-48d0-9980-a1b16a730b87.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-22 14:29:18', 'modifiedTime': '2025-07-22 14:29:18'}]
+Tue, 22 Jul 2025 14:29:14-root-log.py-[line:122]-DEBUG-[日志信息]: testname1
+Tue, 22 Jul 2025 14:29:14-root-log.py-[line:120]-INFO-[日志信息]: 查询到新增政策，断言通过
+Tue, 22 Jul 2025 14:29:16-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 14:31:20-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 14:31:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 14:31:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 14:31:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 14:31:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 14:31:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 14:31:22-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 132, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-22 14:29:11', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250722/8cd017c2-16e6-48d0-9980-a1b16a730b87.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-22 14:29:18', 'modifiedTime': '2025-07-22 14:29:18'}]
+Tue, 22 Jul 2025 14:31:22-root-log.py-[line:122]-DEBUG-[日志信息]: 132
+Tue, 22 Jul 2025 14:31:22-root-log.py-[line:122]-DEBUG-[日志信息]: 删除132成功状态码：200
+Tue, 22 Jul 2025 14:31:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 14:31:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Tue, 22 Jul 2025 14:31:23-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布政策立即发布
+Tue, 22 Jul 2025 14:31:24-root-log.py-[line:120]-INFO-[日志信息]: 点击：政策名称,并输入值：testname1
+Tue, 22 Jul 2025 14:31:24-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 22 Jul 2025 14:31:25-root-log.py-[line:120]-INFO-[日志信息]: 点击：居住政策
+Tue, 22 Jul 2025 14:31:25-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择时间
+Tue, 22 Jul 2025 14:31:26-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布机构,并输入值：测试部
+Tue, 22 Jul 2025 14:31:26-root-log.py-[line:120]-INFO-[日志信息]: 点击：发文字号,并输入值：test110
+Tue, 22 Jul 2025 14:31:28-root-log.py-[line:120]-INFO-[日志信息]: 上传文件成功
+Tue, 22 Jul 2025 14:31:28-root-log.py-[line:120]-INFO-[日志信息]: 点击：保存
+Tue, 22 Jul 2025 14:31:28-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：保存成功
+Tue, 22 Jul 2025 14:31:28-root-log.py-[line:120]-INFO-[日志信息]: 保存成功，断言通过
+Tue, 22 Jul 2025 14:31:28-root-log.py-[line:120]-INFO-[日志信息]: 获取政策列表：[{'id': 133, 'theme': '居住政策', 'title': 'testname1', 'summary': '<p>testdetail</p>', 'issuedOrg': '测试部', 'issuedDate': '2025-07-22 14:31:25', 'issuedNumber': 'test110', 'attachmentName': None, 'url': 'http://192.168.31.88:9000/xqhztest-public/static/policy/article/attachment/20250722/d057339b-6df5-483f-bc98-6bd65fdee9ed.txt', 'status': 'PUSH', 'readCount': 0, 'downloadCount': 0, 'createdTime': '2025-07-22 14:31:32', 'modifiedTime': '2025-07-22 14:31:32'}]
+Tue, 22 Jul 2025 14:31:28-root-log.py-[line:122]-DEBUG-[日志信息]: testname1
+Tue, 22 Jul 2025 14:31:28-root-log.py-[line:120]-INFO-[日志信息]: 查询到新增政策，断言通过
+Tue, 22 Jul 2025 14:31:30-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 14:31:33-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 14:31:33-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 14:31:33-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 14:31:34-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 14:31:34-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 14:31:35-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 14:31:35-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 14:31:35-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 14:31:35-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 14:31:35-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Tue, 22 Jul 2025 14:31:36-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布项目立即发布
+Tue, 22 Jul 2025 14:31:37-root-log.py-[line:120]-INFO-[日志信息]: 点击：项目,并输入值：test_project
+Tue, 22 Jul 2025 14:31:37-root-log.py-[line:120]-INFO-[日志信息]: 点击：请选择你的类型
+Tue, 22 Jul 2025 14:31:37-root-log.py-[line:120]-INFO-[日志信息]: 点击：其他类型
+Tue, 22 Jul 2025 14:31:38-root-log.py-[line:120]-INFO-[日志信息]: 点击：项目需求,并输入值：test_require
+Tue, 22 Jul 2025 14:31:39-root-log.py-[line:120]-INFO-[日志信息]: 上传文件成功
+Tue, 22 Jul 2025 14:31:39-root-log.py-[line:120]-INFO-[日志信息]: 点击：保存
+Tue, 22 Jul 2025 14:31:40-root-log.py-[line:120]-INFO-[日志信息]: 弹窗显示：
+Tue, 22 Jul 2025 14:31:40-root-log.py-[line:120]-INFO-[日志信息]: 保存成功，断言通过
+Tue, 22 Jul 2025 14:31:43-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[{'id': 265, 'userId': 198, 'name': 'test_project', 'creator': 'auto-ui', 'projectType': '其他类型', 'status': 'NOT_STARTED', 'readCount': 0, 'demand': '<p>test_require</p>', 'introduction': '<p>test_content</p>', 'attachments': ['http://192.168.31.88:9000/xqhztest-public/static/user/project/attachment/20250722/03f0270c-7e2c-4ca8-a276-c1c96a3a4063.txt'], 'estimatedCompletionTime': None, 'completedTime': None, 'partnersInfos': [], 'stageInfos': [], 'reason': None, 'auditor': None, 'passTime': None, 'createdTime': '2025-07-22 14:31:43', 'haveShow': None, 'showId': None}]
+Tue, 22 Jul 2025 14:31:43-root-log.py-[line:122]-DEBUG-[日志信息]: test_project
+Tue, 22 Jul 2025 14:31:43-root-log.py-[line:120]-INFO-[日志信息]: 查询到新增项目，断言通过
+Tue, 22 Jul 2025 14:31:45-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 15:08:53-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:11:53-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:11:53-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[{'id': 265, 'userId': 198, 'name': 'test_project', 'creator': 'auto-ui', 'projectType': '其他类型', 'status': 'NOT_STARTED', 'readCount': 0, 'demand': '<p>test_require</p>', 'introduction': '<p>test_content</p>', 'attachments': ['http://192.168.31.88:9000/xqhztest-public/static/user/project/attachment/20250722/03f0270c-7e2c-4ca8-a276-c1c96a3a4063.txt'], 'estimatedCompletionTime': None, 'completedTime': None, 'partnersInfos': [], 'stageInfos': [], 'reason': None, 'auditor': None, 'passTime': None, 'createdTime': '2025-07-22 14:31:43', 'haveShow': None, 'showId': None}]
+Tue, 22 Jul 2025 15:11:53-root-log.py-[line:122]-DEBUG-[日志信息]: 265
+Tue, 22 Jul 2025 15:11:53-root-log.py-[line:122]-DEBUG-[日志信息]: 删除265成功,状态码：200
+Tue, 22 Jul 2025 15:11:59-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:12:00-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 15:12:00-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 15:12:09-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:12:09-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 15:12:09-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 15:12:47-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:12:47-root-log.py-[line:120]-INFO-[日志信息]: 获取项目列表：[]
+Tue, 22 Jul 2025 15:12:47-root-log.py-[line:120]-INFO-[日志信息]: 没有项目可删除
+Tue, 22 Jul 2025 15:13:09-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:13:09-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:13:09-root-log.py-[line:122]-DEBUG-[日志信息]: 53
+Tue, 22 Jul 2025 15:13:09-root-log.py-[line:122]-DEBUG-[日志信息]: 删除53成功,状态码：400
+Tue, 22 Jul 2025 15:14:15-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:14:15-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:14:15-root-log.py-[line:122]-DEBUG-[日志信息]: 53
+Tue, 22 Jul 2025 15:14:16-root-log.py-[line:122]-DEBUG-[日志信息]: 删除53成功,状态码：{"httpStatus":400,"errorCode":400002,"message":"Request method 'POST' is not supported","data":null,"source":"admin"}
+Tue, 22 Jul 2025 15:14:38-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:14:38-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[{'id': 53, 'name': 'autotest', 'userId': 198, 'schoolName': 'test学院', 'teacherName': 'test教授', 'description': '<pre class="ql-syntax" spellcheck="false">我们专注为校园餐饮场景打造全流程数字化管理闭环，通过"源头管控-过程监管-智能服务"三位一体的生态体系，助力学校实现"食品安全零风险、管理效率再升级、服务品质可视化"三大核心目标。\n\n第一层：筑牢安全防线\n• 食材溯源覆盖供应商送货自动识别三联单，OCR拍照自动识别生成电子台账\n• 智能留样柜自动称重记录存取，识别菜品类别，异常告警\n• 后厨智能摄像头可识别未戴工帽、抽烟等10类违规行为，自动触发警报\n• 温湿度传感器实时监测仓库/操作间环境\n\n第二层：规范管理增效\n• 系统自动生成采购/消毒/晨检等台账，替代传统纸质记录，降低工作量\n• 系统根据岗位自动推送晨检、消杀等任务清单至员工端\n• 根据各档口实时接单量，随时调配备餐人员，降低人力闲置率\n\n第三层：服务品质升级\n• 直播明厨亮灶，学生和领导可随时查看后厨实况\n• 线上线下同步点单，减少排队拥堵，提升出餐效率\n• 自动生成档口营业额、菜品畅销榜等数据，助力食堂科学调整供餐策略\n• 档口可随时在手机端上架/下架商品，杜绝“售罄被点”问题\n \n\n差异化优势点睛\n目前我们已服务，比如XX接入系统后：\n• 食源性投诉下降，连续个月零安全事故\n• 后勤管理人力成本节省，年度节约耗材支出万元\n• 家长满意度调研提升个百分点至%\n</pre><p><br></p>', 'img': 'http://192.168.31.88:9000/xqhztest-public/static/course/attachment/20250722/9f485084-c45d-4ef3-8d92-de5e967eceee.png', 'courseType': '其他类型', 'status': 'PUSH', 'progress': 0, 'chapterInfos': [{'name': '概述', 'sectionList': [{'name': '阿里四四', 'videoUrl': 'http://192.168.31.88:9000/xqhztest-public/static/course/video/20250722/3855c580-749c-41a0-a5be-64a522a02df7.mp4', 'process': 0}]}], 'createdTime': '2025-07-22 15:07:13', 'learnCount': 0}]
+Tue, 22 Jul 2025 15:14:38-root-log.py-[line:122]-DEBUG-[日志信息]: 53
+Tue, 22 Jul 2025 15:14:38-root-log.py-[line:122]-DEBUG-[日志信息]: 删除53成功,状态码：
+Tue, 22 Jul 2025 15:14:52-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[]
+Tue, 22 Jul 2025 15:14:52-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[]
+Tue, 22 Jul 2025 15:14:52-root-log.py-[line:120]-INFO-[日志信息]: 没有课程可删除
+Tue, 22 Jul 2025 17:24:20-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 17:24:20-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 17:24:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 17:24:21-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 17:24:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 17:24:22-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 17:24:22-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[]
+Tue, 22 Jul 2025 17:24:22-root-log.py-[line:120]-INFO-[日志信息]: 没有课程可删除
+Tue, 22 Jul 2025 17:24:24-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 17:24:44-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 17:24:45-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 17:24:45-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 17:24:46-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 17:24:46-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 17:24:46-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 17:24:46-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[]
+Tue, 22 Jul 2025 17:24:46-root-log.py-[line:120]-INFO-[日志信息]: 没有课程可删除
+Tue, 22 Jul 2025 17:24:47-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 17:24:47-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Tue, 22 Jul 2025 17:24:55-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素：发布课程立即发布.异常为：
+('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Tue, 22 Jul 2025 17:25:12-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 17:25:15-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 17:25:16-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 17:25:16-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 17:25:16-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 17:25:17-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 17:25:17-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 17:25:17-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[]
+Tue, 22 Jul 2025 17:25:17-root-log.py-[line:120]-INFO-[日志信息]: 没有课程可删除
+Tue, 22 Jul 2025 17:25:18-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 17:25:38-root-log.py-[line:126]-ERROR-[日志信息]: 无法定位到该元素：我的发布.异常为：
+Message: 
+
+Tue, 22 Jul 2025 17:25:40-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
+Tue, 22 Jul 2025 17:25:52-root-log.py-[line:120]-INFO-[日志信息]: 进入http://192.168.31.201/dataCenters/userAnalyse
+Tue, 22 Jul 2025 17:25:53-root-log.py-[line:120]-INFO-[日志信息]: 点击：验证码登录
+Tue, 22 Jul 2025 17:25:53-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入账号,并输入值：15000000001
+Tue, 22 Jul 2025 17:25:53-root-log.py-[line:120]-INFO-[日志信息]: 点击：获取验证码
+Tue, 22 Jul 2025 17:25:54-root-log.py-[line:120]-INFO-[日志信息]: 点击：请输入验证码,并输入值：1234
+Tue, 22 Jul 2025 17:25:54-root-log.py-[line:120]-INFO-[日志信息]: 点击：登录
+Tue, 22 Jul 2025 17:25:54-root-log.py-[line:120]-INFO-[日志信息]: 获取课程列表：[]
+Tue, 22 Jul 2025 17:25:54-root-log.py-[line:120]-INFO-[日志信息]: 没有课程可删除
+Tue, 22 Jul 2025 17:25:55-root-log.py-[line:120]-INFO-[日志信息]: 点击：发布中心
+Tue, 22 Jul 2025 17:25:55-root-log.py-[line:120]-INFO-[日志信息]: 点击：我的发布
+Tue, 22 Jul 2025 17:25:56-root-log.py-[line:120]-INFO-[日志信息]: 点击：上传在线课程立即发布
+Tue, 22 Jul 2025 17:25:56-root-log.py-[line:120]-INFO-[日志信息]: 点击：课程名称,并输入值：test课程
+Tue, 22 Jul 2025 17:25:58-root-log.py-[line:120]-INFO-[日志信息]: 退出浏览器
